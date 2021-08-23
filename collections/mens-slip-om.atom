@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/mens-slip-om.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-04-22T16:01:22-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583778811984</id>
+    <published>2020-04-22T16:01:22-04:00</published>
+    <updated>2020-04-22T16:01:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/harbor-salt"/>
+    <title>HARBOR SALT</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>BLUPRINT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/mz51Sc5Tr2VJvJRdSxIG_HARBOR-SALT-1.jpg?v=1587594820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLUPRINT<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bluprint Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>11.5</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>13</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>9.5</s:tag>
+    <s:tag>CASUAL</s:tag>
+    <s:tag>CASUALS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SLIP ON</s:tag>
+    <s:tag>SLIP ONS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 14</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 13</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 12</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 11</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 10.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-10,5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 10</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 9.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-9,5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

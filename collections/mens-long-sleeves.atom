@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/mens-long-sleeves.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-04-20T00:22:00-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577218887760</id>
+    <published>2020-04-20T00:22:00-04:00</published>
+    <updated>2020-04-20T00:22:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/kathryn"/>
+    <title>KATHRYN</title>
+    <s:type>T-SHIRTS</s:type>
+    <s:vendor>OODJI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/b04acmojSRWwCUKllL0R_5B511002M47649N7400M._Mtlshir-1.jpg?v=1587589761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OODJI<br>
+        <strong>Type: </strong>T-SHIRTS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Oodji Kathryn T-Shirts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>LONG SLEEVE</s:tag>
+    <s:tag>LONG SLEEVES</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>T-SHIRT</s:tag>
+    <s:tag>T-SHIRTS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577218887760</id>
+      <title>BLUE / XXL</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>5B511002M-BLUE-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577218887760</id>
+      <title>BLUE / XL</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>5B511002M-BLUE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577218887760</id>
+      <title>BLUE / L</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>5B511002M-BLUE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577218887760</id>
+      <title>BLUE / M</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>5B511002M-BLUE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577218887760</id>
+      <title>BLUE / S</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>5B511002M-BLUE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

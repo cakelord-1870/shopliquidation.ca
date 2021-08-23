@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/womens-sunglasses.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:47-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583850639440</id>
+    <published>2020-08-27T09:07:47-04:00</published>
+    <updated>2020-08-27T09:07:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/adele-1"/>
+    <title>ADELE</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/lrPaA3gITnOHIC2BYGxU_1002901-1.jpg?v=1587592228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583850639440</id>
+      <title>PPL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002901</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773044816</id>
+    <published>2020-08-27T09:07:39-04:00</published>
+    <updated>2020-08-27T09:07:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/adele"/>
+    <title>ADELE</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/FXP7l1HEQy6tNqM8TKM2_1002899-1.jpg?v=1587592042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773044816</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002899</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773175888</id>
+    <published>2020-04-22T15:54:10-04:00</published>
+    <updated>2020-04-22T15:54:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madison-2"/>
+    <title>MADISON</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/h9NdlDGRzOR4vAVqIOUC_1002897-1.jpg?v=1587591986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773175888</id>
+      <title>SLV BLK / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002897</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773143120</id>
+    <published>2020-04-22T15:54:06-04:00</published>
+    <updated>2020-04-22T15:54:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sophia"/>
+    <title>SOPHIA</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ks5BcEQ8T5qTv4GQy32z_1002891-1.jpg?v=1587591946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773143120</id>
+      <title>GL ORAN / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002891</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773110352</id>
+    <published>2020-04-22T15:54:02-04:00</published>
+    <updated>2020-04-22T15:54:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madison-1"/>
+    <title>MADISON</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/sJ4Ei1BgQ6Wz76oZ6ZKB_1002895-1.jpg?v=1587592291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773110352</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002895</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

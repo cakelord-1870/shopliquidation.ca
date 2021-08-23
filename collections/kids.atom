@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/kids.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:38-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577217609808</id>
+    <published>2020-08-27T09:07:38-04:00</published>
+    <updated>2020-08-27T09:07:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/calgary-shirt"/>
+    <title>CALGARY SHIRT</title>
+    <s:type>KIDS</s:type>
+    <s:vendor>MIGHTY MAC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/lWq3ExzaSGarCjutYdqR_Calgary_shirt-1.jpg?v=1587589495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MIGHTY MAC<br>
+        <strong>Type: </strong>KIDS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mighty Mac Calgary Shirt T-Shirts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>KIDS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577217609808</id>
+      <title>PINK / 24M</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>851742-PINK-24M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577217609808</id>
+      <title>PINK / 18M</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>851742-PINK-18M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577217609808</id>
+      <title>PINK / 12M</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>851742-PINK-12M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583778025552</id>
+    <published>2020-04-22T16:00:26-04:00</published>
+    <updated>2020-04-22T16:00:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/kj990glp"/>
+    <title>KJ990GLP</title>
+    <s:type>KIDS</s:type>
+    <s:vendor>NEW BALANCE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/kypOUmE7QWyeuktQkI5r_KJ990GLP_NEW_BLANCE_KIDS-1.jpg?v=1587594950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NEW BALANCE<br>
+        <strong>Type: </strong>KIDS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">New Balance Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>KIDS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778025552</id>
+      <title>GREY / 12.2 / W</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>KJ990GLP-12.5W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778025552</id>
+      <title>GREY / 12.5 / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>KJ990GLP-12.5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778025552</id>
+      <title>GREY / 12 / W</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>KJ990GLP-12W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778025552</id>
+      <title>GREY / 12 / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>KJ990GLP-12M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778025552</id>
+      <title>GREY / 11.5 / W</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>KJ990GLP-11.5W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778025552</id>
+      <title>GREY / 11.5 / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>KJ990GLP-11.5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778025552</id>
+      <title>GREY / 11 / W</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>KJ990GLP-11W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778025552</id>
+      <title>GREY / 11 / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>KJ990GLP-11M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778025552</id>
+      <title>GREY / 10.5 / W</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>KJ990GLP-10.5W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778025552</id>
+      <title>GREY / 10.5 / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>KJ990GLP-10.5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577216168016</id>
+    <published>2020-04-20T00:21:30-04:00</published>
+    <updated>2020-04-20T00:21:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/nordic-hockey-shirt"/>
+    <title>NORDIC HOCKEY SHIRT</title>
+    <s:type>KIDS</s:type>
+    <s:vendor>MIGHTY MAC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/df6zLQb8QV2oe4xJ2rt5_811974_Nordic_hockey_mighty_mac_-1.jpg?v=1587586813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MIGHTY MAC<br>
+        <strong>Type: </strong>KIDS<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Mighty  Mac Nordic Hockey Shirt T-Shirts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>KIDS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577216168016</id>
+      <title>WHITE / 4</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>811974-WHITE-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577216168016</id>
+      <title>WHITE / 3X</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>811974-WHITE-3X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577216168016</id>
+      <title>WHITE / 3</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>811974-WHITE-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577216168016</id>
+      <title>WHITE / 2</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>811974-WHITE-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577216168016</id>
+      <title>WHITE / 18M</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>811974-WHITE-18M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577216168016</id>
+      <title>WHITE / 12M</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>811974-WHITE-12M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577215545424</id>
+    <published>2020-04-20T00:21:27-04:00</published>
+    <updated>2020-04-20T00:21:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/football-shirt"/>
+    <title>FOOTBALL SHIRT</title>
+    <s:type>KIDS</s:type>
+    <s:vendor>EPOP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/GrZ4XCkRJeuVhZjF1IRZ_Football.jpg?v=1587589606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EPOP<br>
+        <strong>Type: </strong>KIDS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Epop Football Shirt T-Shirts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>KIDS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577215545424</id>
+      <title>TOMATO / 6</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>S392362-0117-TOMATO-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577215545424</id>
+      <title>TOMATO / 5</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>S392362-0117-TOMATO-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577215545424</id>
+      <title>TOMATO / 4</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>S392362-0117-TOMATO-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

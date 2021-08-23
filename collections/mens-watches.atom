@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/mens-watches.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-04-22T15:53:46-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583772782672</id>
+    <published>2020-04-22T15:53:46-04:00</published>
+    <updated>2020-04-22T15:53:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/timelapse"/>
+    <title>TIMELAPSE</title>
+    <s:type>WATCHES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/XgobluvaTaR42nNMp3Jd_1004539-1.jpg?v=1587592662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>WATCHES<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Watches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WATCH</s:tag>
+    <s:tag>WATCHES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772782672</id>
+      <title>GUNMETAL / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772782672</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583772749904</id>
+    <published>2020-04-22T15:53:41-04:00</published>
+    <updated>2020-04-22T15:53:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/happy-hour"/>
+    <title>HAPPY HOUR</title>
+    <s:type>WATCHES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/Rl2aRzxqS26RJfj8zeqF_1004542-1.jpg?v=1587592748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>WATCHES<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Watches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WATCH</s:tag>
+    <s:tag>WATCHES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772749904</id>
+      <title>BLUE / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583772684368</id>
+    <published>2020-04-22T15:53:36-04:00</published>
+    <updated>2020-04-22T15:53:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/freelance"/>
+    <title>FREELANCE</title>
+    <s:type>WATCHES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/uS93RtyQOeXldTGIDaAg_1004538-1.jpg?v=1587592629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>WATCHES<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Watches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WATCH</s:tag>
+    <s:tag>WATCHES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772684368</id>
+      <title>BROWN / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

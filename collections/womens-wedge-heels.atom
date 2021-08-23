@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/womens-wedge-heels.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-04-22T23:13:03-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4584061010000</id>
+    <published>2020-04-22T23:13:03-04:00</published>
+    <updated>2020-04-22T23:13:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/portree"/>
+    <title>PORTREE</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/GUAN1u2SmWmn6zZY7MFg_PORTREE-270-1.jpg?v=1587611674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WEDGE HEEL</s:tag>
+    <s:tag>WEDGE HEELS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583776288848</id>
+    <published>2020-04-22T15:57:17-04:00</published>
+    <updated>2020-04-22T15:57:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/unareria-1"/>
+    <title>UNARERIA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/WsK5unHSx64YuszDahtA_UNARERIA-001-1.jpg?v=1587599796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WEDGE HEEL</s:tag>
+    <s:tag>WEDGE HEELS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583774617680</id>
+    <published>2020-04-22T15:55:20-04:00</published>
+    <updated>2020-04-22T15:55:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/unareria"/>
+    <title>UNARERIA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/JDppG76REeKqeoRcNmXg_UNARERIA-27-1.jpg?v=1587599772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WEDGE HEEL</s:tag>
+    <s:tag>WEDGE HEELS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 11</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 10</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-271-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-271-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-271-06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

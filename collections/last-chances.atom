@@ -1,0 +1,1839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/last-chances.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:53-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652650037328</id>
+    <published>2020-08-27T09:07:53-04:00</published>
+    <updated>2020-08-27T09:07:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/bronx"/>
+    <title>BRONX</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>PAJAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/TCWq0XnwSXmlgvm49O9O_91LYyMKAsiL._UX500.jpg?v=1591707511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PAJAR<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WEEKLY1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 46</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 45</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 44</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 43</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 42</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 41</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 40</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 46</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 45</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 44</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 43</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 42</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 41</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 40</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583850639440</id>
+    <published>2020-08-27T09:07:47-04:00</published>
+    <updated>2020-08-27T09:07:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/adele-1"/>
+    <title>ADELE</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/lrPaA3gITnOHIC2BYGxU_1002901-1.jpg?v=1587592228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583850639440</id>
+      <title>PPL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002901</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583774158928</id>
+    <published>2020-08-27T09:07:40-04:00</published>
+    <updated>2020-08-27T09:07:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/atome-pk"/>
+    <title>ATOME PK</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/M2PiSVGcTI6WytczZiqG_1000994-1.jpg?v=1587591920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CUFFLINK</s:tag>
+    <s:tag>CUFFLINKS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774158928</id>
+      <title>SILVER / OS / CUFFLINK</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1000994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773044816</id>
+    <published>2020-08-27T09:07:39-04:00</published>
+    <updated>2020-08-27T09:07:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/adele"/>
+    <title>ADELE</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/FXP7l1HEQy6tNqM8TKM2_1002899-1.jpg?v=1587592042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773044816</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002899</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652659966032</id>
+    <published>2020-06-09T09:18:33-04:00</published>
+    <updated>2020-06-09T09:18:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/court-pro-ii"/>
+    <title>COURT PRO II</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>K-SWISS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/diYQOwlDTJM5S7qS0y4l_81tnDBOFk3L._UX535.jpg?v=1591708673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-SWISS<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WEEKLY1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 13</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 12</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 11.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-11.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 11</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 10.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 10</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 9.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 9</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 8.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 8</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 7.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 13</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 12</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 11.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-11.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 11</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 10.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 10</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 9.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 9</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 8.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 8</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 7.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652659179600</id>
+    <published>2020-06-09T09:15:06-04:00</published>
+    <updated>2020-06-09T09:15:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/dr-cinch-lo-lthr"/>
+    <title>DR CINCH LO LTHR</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>K-SWISS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ecLVB2uXRcG0AJIzamEX_136282761-k-swiss-d-r-cinch-lo_17506.jpg?v=1591708561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-SWISS<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WEEKLY1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 7.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 8</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 8.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 9</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 9.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 10.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 10</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 11</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 11.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-11.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 12</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 13</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 7.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 8</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 8.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 9</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 9.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 10.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 10</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 11</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 11.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-11.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 12</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 13</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652650168400</id>
+    <published>2020-06-09T08:57:40-04:00</published>
+    <updated>2020-06-09T08:57:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/manhattan"/>
+    <title>MANHATTAN</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>PAJAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/MftQ431Sb2NL2IrDOw79_prod_1818981812.jpg?v=1591707488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PAJAR<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WEEKLY1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 46</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 44</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 42</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 40</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 45</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 43</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 41</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583922171984</id>
+    <published>2020-04-22T19:27:20-04:00</published>
+    <updated>2020-04-22T19:27:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/pr-1908"/>
+    <title>PR 1908</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>PROJEK RAW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/8PA0X3YDQyeyHaFpBNyS_IMG_4813.jpg?v=1587598065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PROJEK RAW<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PROJEK RAW SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>BOOT</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>TAN</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 40</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 41</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 42</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 43</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 44</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 45</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 46</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 43</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 44</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 45</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 46</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777271888</id>
+    <published>2020-04-22T15:59:00-04:00</published>
+    <updated>2020-04-22T15:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/swt16"/>
+    <title>SWT16</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ibtOBvRBivrPnTfDjEwB_SWT-16-1.jpg?v=1587599469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>BOOT</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777009744</id>
+    <published>2020-04-22T15:58:31-04:00</published>
+    <updated>2020-04-22T15:58:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/oladonna"/>
+    <title>OLADONNA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/mvf9bZzRw6JgmwW0MJgp_OLADONNA-001-1.jpg?v=1587596448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>BOOT</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583774027856</id>
+    <published>2020-04-22T15:54:54-04:00</published>
+    <updated>2020-04-22T15:54:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/carbone"/>
+    <title>CARBONE</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/2RrSuF8NTjKohywHLoXw_1003065-1.jpg?v=1587592389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CUFFLINK</s:tag>
+    <s:tag>CUFFLINKS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774027856</id>
+      <title>SILVER / OS / CUFFLINK</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1003065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773765712</id>
+    <published>2020-04-22T15:54:51-04:00</published>
+    <updated>2020-04-22T15:54:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/code"/>
+    <title>CODE</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3rOzWoRZWK4bVPH7sP3g_1003067-1.jpg?v=1587592415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CUFFLINK</s:tag>
+    <s:tag>CUFFLINKS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773765712</id>
+      <title>SILVER / OS / CUFFLINK</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1003067</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773700176</id>
+    <published>2020-04-22T15:54:47-04:00</published>
+    <updated>2020-04-22T15:54:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/embleme"/>
+    <title>EMBLEME</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/SttlsFKRMGatzVsN54GQ_1000686-1.jpg?v=1587591875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CUFFLINK</s:tag>
+    <s:tag>CUFFLINKS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773700176</id>
+      <title>SILVER / OS / CUFFLINK</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1000686</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773634640</id>
+    <published>2020-04-22T15:54:44-04:00</published>
+    <updated>2020-04-22T15:54:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/dq-nomade"/>
+    <title>DQ NOMADE</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/uICdixC3T7uaztDc4wYj_1003111.jpg?v=1587592484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773634640</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1003111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773569104</id>
+    <published>2020-04-22T15:54:40-04:00</published>
+    <updated>2020-04-22T15:54:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/maillon"/>
+    <title>MAILLON</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/xxbOSiiZTM2wigaMItNm_1284818.jpg?v=1587592829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773569104</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1284818</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773470800</id>
+    <published>2020-04-22T15:54:34-04:00</published>
+    <updated>2020-04-22T15:54:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/dq-firmament"/>
+    <title>DQ FIRMAMENT</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/RY5e9vLlQOG4PMQMAlDs_1003102.jpg?v=1587592453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://shopliquidation.ca/products/dq-firmament">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773470800</id>
+      <title>SM / OS / PET JEWEL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1003102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773470800</id>
+      <title>LG / OS / PET JEWEL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1003103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773339728</id>
+    <published>2020-04-22T15:54:22-04:00</published>
+    <updated>2020-04-22T15:54:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/periple-1"/>
+    <title>PERIPLE</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/xPgp4TfuTya53CLvsSSv_1004573.jpg?v=1587592778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773339728</id>
+      <title>BLACK / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1004573</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773274192</id>
+    <published>2020-04-22T15:54:18-04:00</published>
+    <updated>2020-04-22T15:54:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/element-du-temps"/>
+    <title>ELEMENT DU TEMPS</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/SHdAUyuBRUGdVzTe2gqR_1003704-1.jpg?v=1587592509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>NECKLACE</s:tag>
+    <s:tag>NECKLACES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773274192</id>
+      <title>GL / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1003704</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773241424</id>
+    <published>2020-04-22T15:54:15-04:00</published>
+    <updated>2020-04-22T15:54:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/periple"/>
+    <title>PERIPLE</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/9tQoThzR2eGYKIzjRGks_1004574.jpg?v=1587592800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773241424</id>
+      <title>GL GR / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1004574</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773175888</id>
+    <published>2020-04-22T15:54:10-04:00</published>
+    <updated>2020-04-22T15:54:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madison-2"/>
+    <title>MADISON</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/h9NdlDGRzOR4vAVqIOUC_1002897-1.jpg?v=1587591986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773175888</id>
+      <title>SLV BLK / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002897</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773143120</id>
+    <published>2020-04-22T15:54:06-04:00</published>
+    <updated>2020-04-22T15:54:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sophia"/>
+    <title>SOPHIA</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ks5BcEQ8T5qTv4GQy32z_1002891-1.jpg?v=1587591946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773143120</id>
+      <title>GL ORAN / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002891</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773110352</id>
+    <published>2020-04-22T15:54:02-04:00</published>
+    <updated>2020-04-22T15:54:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madison-1"/>
+    <title>MADISON</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/sJ4Ei1BgQ6Wz76oZ6ZKB_1002895-1.jpg?v=1587592291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773110352</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002895</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583772782672</id>
+    <published>2020-04-22T15:53:46-04:00</published>
+    <updated>2020-04-22T15:53:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/timelapse"/>
+    <title>TIMELAPSE</title>
+    <s:type>WATCHES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/XgobluvaTaR42nNMp3Jd_1004539-1.jpg?v=1587592662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>WATCHES<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Watches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WATCH</s:tag>
+    <s:tag>WATCHES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772782672</id>
+      <title>GUNMETAL / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772782672</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583772749904</id>
+    <published>2020-04-22T15:53:41-04:00</published>
+    <updated>2020-04-22T15:53:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/happy-hour"/>
+    <title>HAPPY HOUR</title>
+    <s:type>WATCHES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/Rl2aRzxqS26RJfj8zeqF_1004542-1.jpg?v=1587592748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>WATCHES<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Watches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WATCH</s:tag>
+    <s:tag>WATCHES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772749904</id>
+      <title>BLUE / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583772684368</id>
+    <published>2020-04-22T15:53:36-04:00</published>
+    <updated>2020-04-22T15:53:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/freelance"/>
+    <title>FREELANCE</title>
+    <s:type>WATCHES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/uS93RtyQOeXldTGIDaAg_1004538-1.jpg?v=1587592629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>WATCHES<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Watches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WATCH</s:tag>
+    <s:tag>WATCHES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772684368</id>
+      <title>BROWN / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

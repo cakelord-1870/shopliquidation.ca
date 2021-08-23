@@ -1,0 +1,1978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/blacktape.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:28-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577149911120</id>
+    <published>2020-08-27T09:07:28-04:00</published>
+    <updated>2020-08-27T09:07:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/black-sport-stripe"/>
+    <title>BLACK SPORT STRIPE</title>
+    <s:type>JUMPSUITS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/oAs8bQSxRfm1hD3qIUmR_1322419-1.jpg?v=1587411454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JUMPSUITS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Black Sport Stripe Jumpsuits</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JUMPSUIT</s:tag>
+    <s:tag>JUMPSUITS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149911120</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322419T-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149911120</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322419T-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149911120</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322419T-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149911120</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322419T-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577130938448</id>
+    <published>2020-04-23T14:21:24-04:00</published>
+    <updated>2020-04-23T14:21:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/kick-pants"/>
+    <title>KICK PANTS</title>
+    <s:type>JEANS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/4QyV6XHSZevHJNDdHq2Q_1322859-1.jpg?v=1587666104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JEANS<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Kick Pants Jeans</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>25</s:tag>
+    <s:tag>26</s:tag>
+    <s:tag>27</s:tag>
+    <s:tag>28</s:tag>
+    <s:tag>29</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>31</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577130938448</id>
+      <title>BLACK / 32</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322859T-BLACK-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577130938448</id>
+      <title>BLACK / 31</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322859T-BLACK-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577130938448</id>
+      <title>BLACK / 30</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322859T-BLACK-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577130938448</id>
+      <title>BLACK / 29</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322859T-BLACK-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577130938448</id>
+      <title>BLACK / 28</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322859T-BLACK-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577130938448</id>
+      <title>BLACK / 27</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322859T-BLACK-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577130938448</id>
+      <title>BLACK / 26</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322859T-BLACK-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577130938448</id>
+      <title>BLACK / 25</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322859T-BLACK-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577130938448</id>
+      <title>BLACK / 24</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322859T-BLACK-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577215053904</id>
+    <published>2020-04-20T00:21:19-04:00</published>
+    <updated>2020-04-20T00:21:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/golden-sun"/>
+    <title>GOLDEN SUN</title>
+    <s:type>SWEATERS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/CJFsEoLTFGJ1ac4mkmuw_1327027-1.jpg?v=1587417104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>SWEATERS<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Golden Sun  Sweaters</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SWEATER</s:tag>
+    <s:tag>SWEATERS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577215053904</id>
+      <title>SUN / XL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327027T-SUN -XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577215053904</id>
+      <title>SUN / L</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327027T-SUN -L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577215053904</id>
+      <title>SUN / M</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327027T-SUN -M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577215053904</id>
+      <title>SUN / S</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327027T-SUN -S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577205518416</id>
+    <published>2020-04-20T00:19:39-04:00</published>
+    <updated>2020-04-20T00:19:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/victoria"/>
+    <title>VICTORIA</title>
+    <s:type>SWEATERS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/RLDcJWRbTF6ehHSZC8Mp_1327036-1.jpg?v=1587438290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>SWEATERS<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Victoria Sweaters</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SWEATER</s:tag>
+    <s:tag>SWEATERS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577205518416</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327036T-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577205518416</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327036T-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577205518416</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327036T-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577205518416</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327036T-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577198604368</id>
+    <published>2020-04-20T00:18:21-04:00</published>
+    <updated>2020-04-20T00:18:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/lilac-heather"/>
+    <title>LILAC HEATHER</title>
+    <s:type>SWEATERS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/kbiGVpbfSqOhJPPd24w9_1327005-1.jpg?v=1587438186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>SWEATERS<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Lilac Heather Sweaters</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SWEATER</s:tag>
+    <s:tag>SWEATERS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577198604368</id>
+      <title>LILAC / XL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327005T-LILAC-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577198604368</id>
+      <title>LILAC / L</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327005T-LILAC-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577198604368</id>
+      <title>LILAC / M</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327005T-LILAC-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577198604368</id>
+      <title>LILAC / S</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1327005T-LILAC-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577194606672</id>
+    <published>2020-04-20T00:17:39-04:00</published>
+    <updated>2020-04-20T00:17:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/midnight-sky"/>
+    <title>MIDNIGHT SKY</title>
+    <s:type>SHORTS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/anf4Dz1PTFGlZiMceHx4_1322929-1.jpg?v=1587415831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>SHORTS<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black Tape Midnight Sky Shorts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SHORT</s:tag>
+    <s:tag>SHORTS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577194606672</id>
+      <title>MIDNIGHT / XL / HIGH RISE SLIM CUT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322929T-MIDNIGHT-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577194606672</id>
+      <title>MIDNIGHT / L / HIGH RISE SLIM CUT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322929T-MIDNIGHT-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577194606672</id>
+      <title>MIDNIGHT / M / HIGH RISE SLIM CUT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322929T-MIDNIGHT-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577194606672</id>
+      <title>MIDNIGHT / S / HIGH RISE SLIM CUT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322929T-MIDNIGHT-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577161609296</id>
+    <published>2020-04-20T00:11:37-04:00</published>
+    <updated>2020-04-20T00:11:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/rachel"/>
+    <title>RACHEL</title>
+    <s:type>PANTS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/XwXx3JuiRGePcYgKxaiU_1322907-1.jpg?v=1587415031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>PANTS<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Rachel Pants</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>PANT</s:tag>
+    <s:tag>PANTS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577161609296</id>
+      <title>SAGESSE / XL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322907T-SAGESSE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577161609296</id>
+      <title>SAGESSE / L</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322907T-SAGESSE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577161609296</id>
+      <title>SAGESSE / M</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322907T-SAGESSE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577161609296</id>
+      <title>SAGESSE / S</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322907T-SAGESSE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577161117776</id>
+    <published>2020-04-20T00:11:33-04:00</published>
+    <updated>2020-04-20T00:11:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/virginia"/>
+    <title>VIRGINIA</title>
+    <s:type>PANTS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/f19N5qdARK6H45ihMom3_1322836-1.jpg?v=1587437998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>PANTS<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Virginia Pants</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>PANT</s:tag>
+    <s:tag>PANTS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577161117776</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322836T-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577161117776</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322836T-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577161117776</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322836T-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577161117776</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322836T-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577160921168</id>
+    <published>2020-04-20T00:11:28-04:00</published>
+    <updated>2020-04-20T00:11:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/debra"/>
+    <title>DEBRA</title>
+    <s:type>PANTS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/KgDv9N1xTtGYOz2O6u3S_1322835-1.jpg?v=1587443692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>PANTS<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Debra Pants</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>PANT</s:tag>
+    <s:tag>PANTS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577160921168</id>
+      <title>RED / XL</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322835T-RED-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577160921168</id>
+      <title>RED / L</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322835T-RED-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577160921168</id>
+      <title>RED / M</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322835T-RED-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577160921168</id>
+      <title>RED / S</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322835T-RED-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577153908816</id>
+    <published>2020-04-20T00:10:16-04:00</published>
+    <updated>2020-04-20T00:10:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/side-leather-stripe"/>
+    <title>SIDE LEATHER STRIPE</title>
+    <s:type>LEGGINGS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/8rAO2PC7SCWajBqNrkdQ_1322501-1.jpg?v=1587412524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>LEGGINGS<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Side Leather Stripe  Leggings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>LEGGING</s:tag>
+    <s:tag>LEGGINGS</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>PANT</s:tag>
+    <s:tag>PANTS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577153908816</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322501T-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577153908816</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322501T-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577153908816</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322501T-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577153908816</id>
+      <title>BLACK / XS</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322501T-BLACK-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577152041040</id>
+    <published>2020-04-20T00:09:57-04:00</published>
+    <updated>2020-04-20T00:09:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/leather-legging"/>
+    <title>LEATHER LEGGING</title>
+    <s:type>LEGGINGS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/aU5NImKfRlyimZVVZQnm_1322502-1.jpg?v=1587412853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>LEGGINGS<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Leather Legging Leggings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>LEGGING</s:tag>
+    <s:tag>LEGGINGS</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>PANT</s:tag>
+    <s:tag>PANTS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577152041040</id>
+      <title>BROWN / XL</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322502T-BROWN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577152041040</id>
+      <title>BROWN / L</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322502T-BROWN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577152041040</id>
+      <title>BROWN / M</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322502T-BROWN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577152041040</id>
+      <title>BROWN / S</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322502T-BROWN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577152041040</id>
+      <title>BROWN / XS</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322502T-BROWN-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577138016336</id>
+    <published>2020-04-20T00:07:22-04:00</published>
+    <updated>2020-04-20T00:07:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/side-velour-stripe"/>
+    <title>SIDE VELOUR STRIPE</title>
+    <s:type>JEANS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/zrbrn7YRJCD0M9W8R9cw_1322753-1.jpg?v=1587587041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JEANS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black Tape Side Velour Stripe Jeans</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>25</s:tag>
+    <s:tag>26</s:tag>
+    <s:tag>27</s:tag>
+    <s:tag>28</s:tag>
+    <s:tag>29</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>31</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577138016336</id>
+      <title>NAVY / 32 / SKINNY</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322753T-NAVY-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577138016336</id>
+      <title>NAVY / 31 / SKINNY</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322753T-NAVY-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577138016336</id>
+      <title>NAVY / 30 / SKINNY</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322753T-NAVY-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577138016336</id>
+      <title>NAVY / 29 / SKINNY</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322753T-NAVY-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577138016336</id>
+      <title>NAVY / 28 / SKINNY</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322753T-NAVY-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577138016336</id>
+      <title>NAVY / 27 / SKINNY</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322753T-NAVY-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577138016336</id>
+      <title>NAVY / 26 / SKINNY</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322753T-NAVY-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577138016336</id>
+      <title>NAVY / 25 / SKINNY</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322753T-NAVY-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577138016336</id>
+      <title>NAVY / 24 / SKINNY</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322753T-NAVY-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577131987024</id>
+    <published>2020-04-20T00:06:22-04:00</published>
+    <updated>2020-04-20T00:06:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/purple"/>
+    <title>PURPLE</title>
+    <s:type>JEANS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/bVqlD0feSY211lxWAHBh_1322806-1.jpg?v=1587414568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JEANS<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Purple Jeans</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>25</s:tag>
+    <s:tag>26</s:tag>
+    <s:tag>27</s:tag>
+    <s:tag>28</s:tag>
+    <s:tag>29</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>31</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577131987024</id>
+      <title>LILAC / 32</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322806T-LILAC-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577131987024</id>
+      <title>LILAC / 30</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322806T-LILAC-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577131987024</id>
+      <title>LILAC / 29</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322806T-LILAC-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577131987024</id>
+      <title>LILAC / 28</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322806T-LILAC-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577131987024</id>
+      <title>LILAC / 27</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322806T-LILAC-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577131987024</id>
+      <title>LILAC / 26</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322806T-LILAC-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577131987024</id>
+      <title>LILAC / 25</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322806T-LILAC-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577131987024</id>
+      <title>LILAC / 24</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322806T-LILAC-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577131987024</id>
+      <title>LILAC / 31</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322806T-LILAC-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577128054864</id>
+    <published>2020-04-20T00:05:43-04:00</published>
+    <updated>2020-04-20T00:05:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/flower-1"/>
+    <title>FLOWER</title>
+    <s:type>JEANS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/oTvXiLhgSruH3nGCkyVP_1322790T-1.jpg?v=1587414005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JEANS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Flower Jeans</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>25</s:tag>
+    <s:tag>26</s:tag>
+    <s:tag>27</s:tag>
+    <s:tag>28</s:tag>
+    <s:tag>29</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>31</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 32</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 31</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 30</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 29</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 28</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 27</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 26</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 25</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 24</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577120550992</id>
+    <published>2020-04-20T00:04:20-04:00</published>
+    <updated>2020-04-20T00:04:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/kimberly"/>
+    <title>KIMBERLY</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/k4ZdrCMURBCzaWZU1SPq_1329533-1.jpg?v=1587438848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Kimberly Jackets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577120550992</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1329533T-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577120550992</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1329533T-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577120550992</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1329533T-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577120550992</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1329533T-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577118847056</id>
+    <published>2020-04-20T00:04:05-04:00</published>
+    <updated>2020-04-20T00:04:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/dorothy"/>
+    <title>DOROTHY</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/yzFvUd32RfW9lB9G81fq_1329001-2.jpg?v=1587438577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Dorothy Jackets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577118847056</id>
+      <title>NAVY / XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1329001-NAVY-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577118847056</id>
+      <title>NAVY / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1329001-NAVY-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577118847056</id>
+      <title>NAVY / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1329001-NAVY-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577118847056</id>
+      <title>NAVY / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1329001-NAVY-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577117700176</id>
+    <published>2020-04-20T00:03:52-04:00</published>
+    <updated>2020-04-20T00:03:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/trench-coat-belt"/>
+    <title>TRENCH COAT BELT</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/qodpECyaSzGv05Lw2eNp_1329765-1.jpg?v=1587438990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Trench Coat Belt Jackets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577117700176</id>
+      <title>COFFEE / XL</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329765T-COFFEE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577117700176</id>
+      <title>COFFEE / L</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329765T-COFFEE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577117700176</id>
+      <title>COFFEE / M</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329765T-COFFEE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577117700176</id>
+      <title>COFFEE / S</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329765T-COFFEE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577114882128</id>
+    <published>2020-04-20T00:03:19-04:00</published>
+    <updated>2020-04-20T00:03:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/floral"/>
+    <title>FLORAL</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/4oqDO6TwROWVhAZldT7p_1329505-1.jpg?v=1587438634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Floral Jackets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577114882128</id>
+      <title>WHITE / XL</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>1329505T-WHITE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577114882128</id>
+      <title>WHITE / L</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>1329505T-WHITE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577114882128</id>
+      <title>WHITE / M</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>1329505T-WHITE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577114882128</id>
+      <title>WHITE / S</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>1329505T-WHITE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577114390608</id>
+    <published>2020-04-20T00:03:15-04:00</published>
+    <updated>2020-04-20T00:03:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/faux-leather-coat"/>
+    <title>FAUX LEATHER COAT</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/bxDrtcRlinJMMJMuepAe_1329547-1.jpg?v=1587438929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Faux Leather Coat Jackets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577114390608</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1329547T-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577114390608</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1329547T-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577114390608</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1329547T-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577114390608</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1329547T-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577113243728</id>
+    <published>2020-04-20T00:03:03-04:00</published>
+    <updated>2020-04-20T00:03:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/cindys"/>
+    <title>CINDY&apos;S</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/kG8ygbdWSymW6yC495aJ_1329750-1.jpg?v=1587443675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Cindy'S Jackets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577113243728</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329750T-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577113243728</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329750T-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577113243728</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329750T-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577113243728</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329750T-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577105772624</id>
+    <published>2020-04-20T00:01:42-04:00</published>
+    <updated>2020-04-20T00:01:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/vintage-floral"/>
+    <title>VINTAGE FLORAL</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/T4IOJlGQoC3UutXg4wEQ_1322377-1.jpg?v=1587411151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Vintage Floral Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577105772624</id>
+      <title>BLUSH / XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322377T-BLUSH-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577105772624</id>
+      <title>BLUSH / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322377T-BLUSH-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577105772624</id>
+      <title>BLUSH / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322377T-BLUSH-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577105772624</id>
+      <title>BLUSH / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322377T-BLUSH-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577102725200</id>
+    <published>2020-04-20T00:01:11-04:00</published>
+    <updated>2020-04-20T00:01:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/robin-egg-blue"/>
+    <title>ROBIN EGG BLUE</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/vSDuF58TvgCzbn1QSI3Q_1322429-1.jpg?v=1587443944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Robin Egg Blue Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577102725200</id>
+      <title>BLUE / XL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322429T-BLUE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577102725200</id>
+      <title>BLUE / L</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322429T-BLUE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577102725200</id>
+      <title>BLUE / M</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322429T-BLUE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577102725200</id>
+      <title>BLUE / S</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322429T-BLUE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577098956880</id>
+    <published>2020-04-20T00:00:32-04:00</published>
+    <updated>2020-04-20T00:00:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/longsleeve-dress"/>
+    <title>LONGSLEEVE DRESS</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/DlFbboIeSUOnEdf4fVzI_822087-1.jpg?v=1587443856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Longsleeve Dress Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577098956880</id>
+      <title>CHARCOAL / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>822087T-CHARCOAL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577098956880</id>
+      <title>CHARCOAL / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>822087T-CHARCOAL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577098956880</id>
+      <title>CHARCOAL / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>822087T-CHARCOAL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577098956880</id>
+      <title>CHARCOAL / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>822087T-CHARCOAL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577095483472</id>
+    <published>2020-04-19T23:59:55-04:00</published>
+    <updated>2020-04-19T23:59:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/ivory-carnation-print"/>
+    <title>IVORY CARNATION PRINT</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3m3I9p7uSZOC8lOeyNLS_1322252-1.jpg?v=1587628644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Ivory Carnation Print Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577095483472</id>
+      <title>IVORY / L</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322252T-IVORY-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577095483472</id>
+      <title>IVORY / M</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322252T-IVORY-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577095483472</id>
+      <title>IVORY / S</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322252T-IVORY-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577095483472</id>
+      <title>IVORY / XS</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322252T-IVORY-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577094959184</id>
+    <published>2020-04-19T23:59:49-04:00</published>
+    <updated>2020-04-19T23:59:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/ivory-vintage-embro"/>
+    <title>IVORY VINTAGE EMBRO</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/waWk4rKITGSgs5UTGdSA_1322254-1.jpg?v=1587443808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Ivory Vintage Embro Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577094959184</id>
+      <title>IVORY / XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322254T-IVORY-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577094959184</id>
+      <title>IVORY / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322254T-IVORY-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577094959184</id>
+      <title>IVORY / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322254T-IVORY-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577094959184</id>
+      <title>IVORY / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322254T-IVORY-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

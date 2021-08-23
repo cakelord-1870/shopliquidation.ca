@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/womens-clutches.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-04-23T12:04:43-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4584407957584</id>
+    <published>2020-04-23T12:04:43-04:00</published>
+    <updated>2020-04-23T12:04:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/maestro-petit"/>
+    <title>MAESTRO PETIT</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CELINE DION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/cBHYF4hZStGklfP0s5wR_celine-cline-dion-maestro-faux-leather-clutch-abv6a283f15_zoom.jpg?v=1587657889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CELINE DION<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Celine Dion Handbag Collection</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>CELINE DION</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HANDBAGS</s:tag>
+    <s:tag>NAVY</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584407957584</id>
+      <title>NAVY</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>CLT5476-NAVY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4581762859088</id>
+    <published>2020-04-20T18:21:10-04:00</published>
+    <updated>2020-04-20T18:21:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/nightlife"/>
+    <title>NIGHTLIFE</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/1HcAFxbS3SqrZRPVCVXH_70053030002016083115260835146.jpg?v=1587421274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->Caroline Neron Handbag Collection<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>CAROLINE NERON</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GREY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4581762859088</id>
+      <title>GREY</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>1002874</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4581753913424</id>
+    <published>2020-04-20T17:59:58-04:00</published>
+    <updated>2020-04-20T17:59:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/interval"/>
+    <title>INTERVAL</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CELINE DION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/4u0kHD72QLqh0rpSmCuq_17169746_500_A.jpg?v=1587420001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CELINE DION<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Celine Dion Handbag Collection</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BEIGE</s:tag>
+    <s:tag>CELINE DION</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HANDBAG</s:tag>
+    <s:tag>HANDBAGS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4581753913424</id>
+      <title>BEIGE</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>CLT5053-BEIGE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578359803984</id>
+    <published>2020-04-20T04:00:05-04:00</published>
+    <updated>2020-04-20T04:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sublime-2"/>
+    <title>SUBLIME</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/lv7OcKfpQUWHiHvG0qT0_7002086000201503261552481569.jpg?v=1587369609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sublime Bags</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578359803984</id>
+      <title>BEIGE</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578328576080</id>
+    <published>2020-04-20T03:54:12-04:00</published>
+    <updated>2020-04-20T03:54:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/vip"/>
+    <title>VIP</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/LSL6Wy1hQIupFYTSQ2YP_70010729002014102119523911632.jpg?v=1587369257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->Caroline Neron Handbag Collection<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>CAROLINE NERON</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GREY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578328576080</id>
+      <title>GREY</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>1002434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578320875600</id>
+    <published>2020-04-20T03:52:50-04:00</published>
+    <updated>2020-04-20T03:52:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/finesse"/>
+    <title>FINESSE</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/kYUchIVISHWY8ETzC3dN_700216320021_415032615525776225.jpg?v=1587420554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->Caroline Neron Handbag Collection<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BEIGE</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>CAROLINE NERON</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>LIGHT BLUE</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578320875600</id>
+      <title>PINK</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002851-PINK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578320875600</id>
+      <title>LIGHT BLUE</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578320875600</id>
+      <title>BEIGE</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002855</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578209038416</id>
+    <published>2020-04-20T03:32:10-04:00</published>
+    <updated>2020-04-20T03:32:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/soiree-festive-1"/>
+    <title>SOIREE FESTIVE</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/Mfkc0kklQ9y7Qwka3oLZ_70041730002016020319451739611_acb6b996-55ce-443e-b9ec-00264373de2d.jpg?v=1587421083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578209038416</id>
+      <title>BLACK</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578209038416</id>
+      <title>LIGHT GREY</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002862</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578162016336</id>
+    <published>2020-04-20T03:22:46-04:00</published>
+    <updated>2020-04-20T03:22:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/soiree-festive"/>
+    <title>SOIREE FESTIVE</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/8PKROM7QuuskEKEN9jPm_7002173000201503261552598676.jpg?v=1606374150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<!--StartFragment-->Caroline Neron Handbag Collection<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BEIGE</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>CAROLINE NERON</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GREY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>LIGHT GREY</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578162016336</id>
+      <title>GREY</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1003267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578162016336</id>
+      <title>BEIGE</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577183268944</id>
+    <published>2020-04-20T00:15:39-04:00</published>
+    <updated>2020-04-20T00:15:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sublime-1"/>
+    <title>SUBLIME</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/XPyE5YwWRtahjWQI54Jc_70010893002014102119524153513.jpg?v=1587420885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sublime Bags</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577183268944</id>
+      <title>BLACK</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002437-BLACK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577178222672</id>
+    <published>2020-04-20T00:14:45-04:00</published>
+    <updated>2020-04-20T00:14:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/maestro-1"/>
+    <title>MAESTRO PETIT</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CELINE DION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/8lxnKZAzR9mltffPzobg_61nu0EaORNL._AC_UL1500.jpg?v=1587418894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CELINE DION<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Celine Dion Maestro Bags</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HANDBAG</s:tag>
+    <s:tag>HANDBAGS</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577178222672</id>
+      <title>RED</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>CLT5476-RED</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577177206864</id>
+    <published>2020-04-20T00:14:35-04:00</published>
+    <updated>2020-04-20T00:14:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/maestro"/>
+    <title>MAESTRO PETIT</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CELINE DION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/WWy8jDSuRtmUy5wZVEBl_maestro-clutch-clt5476-SAND-02.jpg?v=1587419352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CELINE DION<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Celine Dion Maestro Bags</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HANDBAG</s:tag>
+    <s:tag>HANDBAGS</s:tag>
+    <s:tag>SAND</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577177206864</id>
+      <title>SAND</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>CLT5476-SAND</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

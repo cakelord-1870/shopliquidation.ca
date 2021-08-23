@@ -1,0 +1,2548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/call-it-spring.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:45-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777992784</id>
+    <published>2020-08-27T09:07:45-04:00</published>
+    <updated>2020-08-27T09:07:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/agreavia-650"/>
+    <title>AGREAVIA 650</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/AXpr4vR6S2yvNXaPEIky_AGREAVIA-650-1.jpg?v=1587593720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>FLIP FLOP</s:tag>
+    <s:tag>FLIP FLOPS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777992784</id>
+      <title>PINK / 8</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-650-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777992784</id>
+      <title>PINK / 7</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-650-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777992784</id>
+      <title>PINK / 6</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-650-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777992784</id>
+      <title>PINK / 5</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-650-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777894480</id>
+    <published>2020-08-27T09:07:44-04:00</published>
+    <updated>2020-08-27T09:07:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/agreavia-001"/>
+    <title>AGREAVIA 001</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ht37MhGSUq941z4dmA7Q_AGREAVIA-001-1.jpg?v=1587593687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>FLIP FLOP</s:tag>
+    <s:tag>FLIP FLOPS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777894480</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777894480</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777894480</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777894480</id>
+      <title>BLACK / 5</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-001-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777730640</id>
+    <published>2020-08-27T09:07:43-04:00</published>
+    <updated>2020-08-27T09:07:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/abaudien"/>
+    <title>ABAUDIEN</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/TtDXjRsWTmWyOLasEEeW_ABAUDIEN-001-1.jpg?v=1587593654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DRESS SHOE</s:tag>
+    <s:tag>DRESS SHOES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 13</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 9.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583775535184</id>
+    <published>2020-08-27T09:07:42-04:00</published>
+    <updated>2020-08-27T09:07:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/agrirewiel-1"/>
+    <title>AGRIREWIEL</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/IIIdBo7xRqSJIwmZOr8x_AGRIREWIEL-001-1.jpg?v=1587593775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>STILETTO</s:tag>
+    <s:tag>STILETTOS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583775141968</id>
+    <published>2020-08-27T09:07:41-04:00</published>
+    <updated>2020-08-27T09:07:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/agrirewiel"/>
+    <title>AGRIREWIEL</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/CLMA0NxRROtApQUkJ4gy_AGRIREWIEL-022-1.jpg?v=1587593817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>STILETTO</s:tag>
+    <s:tag>STILETTOS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775141968</id>
+      <title>PEWTER / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-022-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775141968</id>
+      <title>PEWTER / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-022-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775141968</id>
+      <title>PEWTER / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-022-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4584061010000</id>
+    <published>2020-04-22T23:13:03-04:00</published>
+    <updated>2020-04-22T23:13:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/portree"/>
+    <title>PORTREE</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/GUAN1u2SmWmn6zZY7MFg_PORTREE-270-1.jpg?v=1587611674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WEDGE HEEL</s:tag>
+    <s:tag>WEDGE HEELS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583905787984</id>
+    <published>2020-04-22T18:55:04-04:00</published>
+    <updated>2020-04-22T18:55:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madona-1"/>
+    <title>MADONA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/vzpceaAPSBOFUmB307pL_MADONA-680-1_ca9cd582-ff0e-4001-b877-1df8947137c7.jpg?v=1587596117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 7</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 7.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 8.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 8</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 9</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 6.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 6</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777697872</id>
+    <published>2020-04-22T15:59:48-04:00</published>
+    <updated>2020-04-22T15:59:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/nynka"/>
+    <title>NYNKA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/9lVExvE7QiaXJ39kaKDn_NYNKE-220_-3.jpg?v=1587611614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DRESS SHOE</s:tag>
+    <s:tag>DRESS SHOES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 13</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 11</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 9.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 9</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 8.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 8</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777534032</id>
+    <published>2020-04-22T15:59:35-04:00</published>
+    <updated>2020-04-22T15:59:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/naudien"/>
+    <title>NAUDIEN</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/wTxzbIz8QfWXfvfpXSo1_NAUDIEN-220-1.jpg?v=1587596123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777534032</id>
+      <title>BROWN / 12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NAUDIEN-220-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777534032</id>
+      <title>BROWN / 11</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NAUDIEN-220-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777534032</id>
+      <title>BROWN / 10.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NAUDIEN-220-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777534032</id>
+      <title>BROWN / 10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NAUDIEN-220-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777534032</id>
+      <title>BROWN / 9.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NAUDIEN-220-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777534032</id>
+      <title>BROWN / 9</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NAUDIEN-220-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777370192</id>
+    <published>2020-04-22T15:59:14-04:00</published>
+    <updated>2020-04-22T15:59:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/huttner"/>
+    <title>HUTTNER</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/HJOv5OMqS56KsIU2Pcx7_HUTTNER-R-009-1.jpg?v=1587594790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DRESS SHOE</s:tag>
+    <s:tag>DRESS SHOES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 13</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 9.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777271888</id>
+    <published>2020-04-22T15:59:00-04:00</published>
+    <updated>2020-04-22T15:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/swt16"/>
+    <title>SWT16</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ibtOBvRBivrPnTfDjEwB_SWT-16-1.jpg?v=1587599469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>BOOT</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777009744</id>
+    <published>2020-04-22T15:58:31-04:00</published>
+    <updated>2020-04-22T15:58:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/oladonna"/>
+    <title>OLADONNA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/mvf9bZzRw6JgmwW0MJgp_OLADONNA-001-1.jpg?v=1587596448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>BOOT</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583776911440</id>
+    <published>2020-04-22T15:58:14-04:00</published>
+    <updated>2020-04-22T15:58:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madona"/>
+    <title>MADONA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/AimXWQDTFqnm0wDXPCcm_MADONA-001-1.jpg?v=1587595920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583776780368</id>
+    <published>2020-04-22T15:58:03-04:00</published>
+    <updated>2020-04-22T15:58:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/lentigione"/>
+    <title>LENTIGIONE</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/1fbPsIvkQwiVfFXmslfQ_LENTIGIONE-001-1.jpg?v=1587595896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>PLATFORM</s:tag>
+    <s:tag>PLATFORMS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583776616528</id>
+    <published>2020-04-22T15:57:48-04:00</published>
+    <updated>2020-04-22T15:57:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/tayvia-2"/>
+    <title>TAYVIA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/y9DdgSxSqys93qE4mnFD_TAYVIA-653-1.jpg?v=1587599686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776616528</id>
+      <title>PINK / 10</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TAYVIA-653-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776616528</id>
+      <title>PINK / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TAYVIA-653-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776616528</id>
+      <title>PINK / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TAYVIA-653-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776616528</id>
+      <title>PINK / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TAYVIA-653-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776616528</id>
+      <title>PINK / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TAYVIA-653-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776616528</id>
+      <title>PINK / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TAYVIA-653-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776616528</id>
+      <title>PINK / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TAYVIA-653-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776616528</id>
+      <title>PINK / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TAYVIA-653-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776616528</id>
+      <title>PINK / 5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>TAYVIA-653-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583776485456</id>
+    <published>2020-04-22T15:57:34-04:00</published>
+    <updated>2020-04-22T15:57:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/ruiz"/>
+    <title>RUIZ</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3fURZeSTRUOqhvf2i1Mu_RUIZ-680-1.jpg?v=1587598355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>CASUAL</s:tag>
+    <s:tag>CASUALS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776485456</id>
+      <title>PINK / 10</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>RUIZ-680-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776485456</id>
+      <title>PINK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>RUIZ-680-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776485456</id>
+      <title>PINK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>RUIZ-680-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776485456</id>
+      <title>PINK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>RUIZ-680-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776485456</id>
+      <title>PINK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>RUIZ-680-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776485456</id>
+      <title>PINK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>RUIZ-680-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583776288848</id>
+    <published>2020-04-22T15:57:17-04:00</published>
+    <updated>2020-04-22T15:57:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/unareria-1"/>
+    <title>UNARERIA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/WsK5unHSx64YuszDahtA_UNARERIA-001-1.jpg?v=1587599796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WEDGE HEEL</s:tag>
+    <s:tag>WEDGE HEELS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776288848</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583776190544</id>
+    <published>2020-04-22T15:57:09-04:00</published>
+    <updated>2020-04-22T15:57:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/eclipse"/>
+    <title>ECLIPSE</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/oZRnqjTbQUKGe2ADaIQ9_ECLIPSE-965-1.jpg?v=1587594410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>STILETTO</s:tag>
+    <s:tag>STILETTOS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776190544</id>
+      <title>FLEUR / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>ECLIPSE-965-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776190544</id>
+      <title>FLEUR / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>ECLIPSE-965-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776190544</id>
+      <title>FLEUR / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>ECLIPSE-965-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776190544</id>
+      <title>FLEUR / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>ECLIPSE-965-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776190544</id>
+      <title>FLEUR / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>ECLIPSE-965-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776190544</id>
+      <title>FLEUR / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>ECLIPSE-965-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776190544</id>
+      <title>FLEUR / 6</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>ECLIPSE-965-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583776026704</id>
+    <published>2020-04-22T15:56:57-04:00</published>
+    <updated>2020-04-22T15:56:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sarabi"/>
+    <title>SARABI</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/YBF8843jTFCYMnSbGPDb_SARABI-001-1.jpg?v=1587598385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>CASUAL</s:tag>
+    <s:tag>CASUALS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776026704</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SARABI-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776026704</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SARABI-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776026704</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SARABI-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776026704</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SARABI-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776026704</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SARABI-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776026704</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SARABI-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583775928400</id>
+    <published>2020-04-22T15:56:46-04:00</published>
+    <updated>2020-04-22T15:56:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/ocalide"/>
+    <title>OCALIDE</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/k7SpcxEIRsOVlp274ywg_OCALIDE-650-1.jpg?v=1587596223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775928400</id>
+      <title>PINK / 10</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>OCALIDE-650-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775928400</id>
+      <title>PINK / 9</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>OCALIDE-650-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775928400</id>
+      <title>PINK / 8.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>OCALIDE-650-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775928400</id>
+      <title>PINK / 8</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>OCALIDE-65-08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775928400</id>
+      <title>PINK / 7.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>OCALIDE-650-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775928400</id>
+      <title>PINK / 7</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>OCALIDE-650-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775928400</id>
+      <title>PINK / 6.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>OCALIDE-650-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775928400</id>
+      <title>PINK / 6</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>OCALIDE-650-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583775731792</id>
+    <published>2020-04-22T15:56:29-04:00</published>
+    <updated>2020-04-22T15:56:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/issey"/>
+    <title>ISSEY</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/HiFrihe3SoGwrfXsvjsE_ISSEY-001-1.jpg?v=1587594852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775731792</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>ISSEY-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775731792</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>ISSEY-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775731792</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>ISSEY-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775731792</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>ISSEY-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775731792</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>ISSEY-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775731792</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>ISSEY-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775731792</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>ISSEY-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775731792</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>ISSEY-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775731792</id>
+      <title>BLACK / 5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>ISSEY-001-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583775240272</id>
+    <published>2020-04-22T15:56:04-04:00</published>
+    <updated>2020-04-22T15:56:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/strangarone"/>
+    <title>STRANGARONE</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/LMs8C0qfT3a5VWZhSY0f_STANGARONE-270-1.jpg?v=1587599409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775240272</id>
+      <title>BONE / 10</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>STRANGARONE-270-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775240272</id>
+      <title>BONE / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>STRANGARONE-270-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775240272</id>
+      <title>BONE / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>STRANGARONE-270-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775240272</id>
+      <title>BONE / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>STRANGARONE-270-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775240272</id>
+      <title>BONE / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>STRANGARONE-270-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775240272</id>
+      <title>BONE / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>STRANGARONE-270-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583774847056</id>
+    <published>2020-04-22T15:55:46-04:00</published>
+    <updated>2020-04-22T15:55:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/proalla"/>
+    <title>PROALLA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/PdCh6XrOTFiCmPEyKHwe_Proalla-040-1.jpg?v=1587598217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774847056</id>
+      <title>SILVER / 10</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PROALLA-040-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774847056</id>
+      <title>SILVER / 9</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PROALLA-040-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774847056</id>
+      <title>SILVER / 8.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PROALLA-040-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774847056</id>
+      <title>SILVER / 8</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PROALLA-040-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774847056</id>
+      <title>SILVER / 7.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PROALLA-040-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774847056</id>
+      <title>SILVER / 7</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PROALLA-040-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774847056</id>
+      <title>SILVER / 6.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PROALLA-040-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774847056</id>
+      <title>SILVER / 6</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PROALLA-040-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583774748752</id>
+    <published>2020-04-22T15:55:34-04:00</published>
+    <updated>2020-04-22T15:55:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/stewy"/>
+    <title>STEWY</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/tfaQTiD0T6uFADXrBKq4_Stewy-100-1.jpg?v=1587599441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>CASUAL</s:tag>
+    <s:tag>CASUALS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774748752</id>
+      <title>WHITE / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>STEWY-100-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774748752</id>
+      <title>WHITE / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>STEWY-100-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774748752</id>
+      <title>WHITE / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>STEWY-100-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774748752</id>
+      <title>WHITE / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>STEWY-100-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774748752</id>
+      <title>WHITE / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>STEWY-100-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774748752</id>
+      <title>WHITE / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>STEWY-100-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774748752</id>
+      <title>WHITE / 6</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>STEWY-100-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583774617680</id>
+    <published>2020-04-22T15:55:20-04:00</published>
+    <updated>2020-04-22T15:55:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/unareria"/>
+    <title>UNARERIA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/JDppG76REeKqeoRcNmXg_UNARERIA-27-1.jpg?v=1587599772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WEDGE HEEL</s:tag>
+    <s:tag>WEDGE HEELS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 11</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 10</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNANERIA-271-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-271-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-271-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774617680</id>
+      <title>TAN / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>UNARERIA-271-06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

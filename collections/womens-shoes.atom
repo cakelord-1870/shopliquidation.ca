@@ -1,0 +1,3517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/womens-shoes.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:58-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652658458704</id>
+    <published>2020-08-27T09:07:58-04:00</published>
+    <updated>2020-08-27T09:07:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/bk-1711"/>
+    <title>BK 1711</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/QQkNHvpcSJSLPIqOUk8W_IMG_3255.jpg?v=1591708460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WHITE</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>BLUE / 42</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-BLUE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>BLUE / 37</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-BLUE-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>PINK / 36</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-PINK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>PINK / 38</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-PINK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>PINK / 35</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-PINK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>BLUE / 36</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-BLUE-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>BLUE / 41</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-BLUE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>PINK / 41</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-PINK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>BLUE / 38</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-BLUE-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>PINK / 37</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-PINK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>BLUE / 35</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-BLUE-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>BLUE / 40</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-BLUE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>PINK / 42</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-PINK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>PINK / 40</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-PINK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>PINK / 39</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-PINK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658458704</id>
+      <title>BLUE / 39</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1711-BLUE-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652658393168</id>
+    <published>2020-08-27T09:07:57-04:00</published>
+    <updated>2020-08-27T09:07:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/bk-1702"/>
+    <title>BK 1702</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/JSn2g8MtSpqkTgCQpDUf_IMG_3260.jpg?v=1591708424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>BEIGE</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658393168</id>
+      <title>BEIGE / 41</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BK1702-BEIGE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658393168</id>
+      <title>BEIGE / 42</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BK1702-BEIGE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658393168</id>
+      <title>BEIGE / 38</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BK1702-BEIGE-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658393168</id>
+      <title>BEIGE / 36</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BK1702-BEIGE-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658393168</id>
+      <title>BEIGE / 35</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BK1702-BEIGE-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658393168</id>
+      <title>BEIGE / 39</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BK1702-BEIGE-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658393168</id>
+      <title>BEIGE / 40</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BK1702-BEIGE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658393168</id>
+      <title>BEIGE / 37</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BK1702-BEIGE-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652655083600</id>
+    <published>2020-08-27T09:07:56-04:00</published>
+    <updated>2020-08-27T09:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/bt-1794"/>
+    <title>BT 1794</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/W3PcgkHCTKmKLlOvApqc_IMG_3082.jpg?v=1591708102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>GREY</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 41</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 40</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 38</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 37</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 39</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 35</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 37</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 36</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 36</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 39</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 42</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 35</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 38</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652654985296</id>
+    <published>2020-08-27T09:07:55-04:00</published>
+    <updated>2020-08-27T09:07:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/bk-1821"/>
+    <title>BK 1821</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/k7MwWWx0TQyPXwxb6jbM_IMG_3078.jpg?v=1591708066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>NAVY</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>NAVY / 42</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-NAVY-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>NAVY / 37</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-NAVY-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>NAVY / 39</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-NAVY-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>NAVY / 41</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-NAVY-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>NAVY / 35</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-NAVY-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>NAVY / 36</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-NAVY-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>NAVY / 38</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-NAVY-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>NAVY / 40</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-NAVY-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>YELLOW / 41</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-YELLOW-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>YELLOW / 40</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-YELLOW-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>YELLOW / 39</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-YELLOW-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>YELLOW / 42</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-YELLOW-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>YELLOW / 37</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-YELLOW-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>YELLOW / 36</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-YELLOW-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>YELLOW / 35</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-YELLOW-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654985296</id>
+      <title>YELLOW / 38</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>BK1821-YELLOW-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777992784</id>
+    <published>2020-08-27T09:07:45-04:00</published>
+    <updated>2020-08-27T09:07:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/agreavia-650"/>
+    <title>AGREAVIA 650</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/AXpr4vR6S2yvNXaPEIky_AGREAVIA-650-1.jpg?v=1587593720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>FLIP FLOP</s:tag>
+    <s:tag>FLIP FLOPS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777992784</id>
+      <title>PINK / 8</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-650-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777992784</id>
+      <title>PINK / 7</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-650-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777992784</id>
+      <title>PINK / 6</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-650-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777992784</id>
+      <title>PINK / 5</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-650-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777894480</id>
+    <published>2020-08-27T09:07:44-04:00</published>
+    <updated>2020-08-27T09:07:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/agreavia-001"/>
+    <title>AGREAVIA 001</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ht37MhGSUq941z4dmA7Q_AGREAVIA-001-1.jpg?v=1587593687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>FLIP FLOP</s:tag>
+    <s:tag>FLIP FLOPS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777894480</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777894480</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777894480</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777894480</id>
+      <title>BLACK / 5</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>AGREAVIA-001-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583775535184</id>
+    <published>2020-08-27T09:07:42-04:00</published>
+    <updated>2020-08-27T09:07:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/agrirewiel-1"/>
+    <title>AGRIREWIEL</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/IIIdBo7xRqSJIwmZOr8x_AGRIREWIEL-001-1.jpg?v=1587593775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>STILETTO</s:tag>
+    <s:tag>STILETTOS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775535184</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583775141968</id>
+    <published>2020-08-27T09:07:41-04:00</published>
+    <updated>2020-08-27T09:07:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/agrirewiel"/>
+    <title>AGRIREWIEL</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/CLMA0NxRROtApQUkJ4gy_AGRIREWIEL-022-1.jpg?v=1587593817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>STILETTO</s:tag>
+    <s:tag>STILETTOS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775141968</id>
+      <title>PEWTER / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-022-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775141968</id>
+      <title>PEWTER / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-022-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583775141968</id>
+      <title>PEWTER / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>AGRIREWIEL-022-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652658688080</id>
+    <published>2020-06-09T09:14:24-04:00</published>
+    <updated>2020-06-09T09:14:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/mo-1732"/>
+    <title>MO 1732</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/nG95LlHETuqdadgup1b2_IMG_3252.jpg?v=1591708503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>NAVY</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SLIP ON</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>YELLOW</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>PINK / 35</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-PINK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>PINK / 36</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-PINK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>BLUE / 41</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-BLUE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>BLUE / 38</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-BLUE-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>BLUE / 36</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-BLUE-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>BLUE / 40</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-BLUE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>PINK / 38</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-PINK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>PINK / 37</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-PINK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>PINK / 41</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-PINK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>BLUE / 39</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-BLUE-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>BLUE / 35</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-BLUE-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>PINK / 42</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-PINK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>PINK / 39</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-PINK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>BLUE / 37</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-BLUE-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>PINK / 40</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-PINK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652658688080</id>
+      <title>BLUE / 42</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>MO1732-BLUE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652657541200</id>
+    <published>2020-06-09T09:12:36-04:00</published>
+    <updated>2020-06-09T09:12:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/mo-1767"/>
+    <title>MO 1767</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/yY8WYoETYup8gf5Yx2mD_imgonline-com-ua-CompressToSize-E5zyT6dMo1pWLOO.jpg?v=1591708389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>BEIGE</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>NAVY</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SLIP ON</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>YELLOW</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>BEIGE / 39</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-BEIGE-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>BEIGE / 35</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-BEIGE-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>NAVY / 40</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-NAVY-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>NAVY / 36</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-NAVY-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>BEIGE / 38</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-BEIGE-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>NAVY / 35</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-NAVY-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>BEIGE / 42</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-BEIGE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>YELLOW / 36</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-YELLOW-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>YELLOW / 41</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-YELLOW-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>NAVY / 42</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-NAVY-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>BEIGE / 36</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-BEIGE-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>YELLOW / 37</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-YELLOW-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>YELLOW / 35</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-YELLOW-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>BEIGE / 40</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-BEIGE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>YELLOW / 39</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-YELLOW-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>NAVY / 41</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-NAVY-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>BEIGE / 37</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-BEIGE-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>BEIGE / 41</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-BEIGE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>YELLOW / 40</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-YELLOW-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>YELLOW / 42</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-YELLOW-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>YELLOW / 38</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-YELLOW-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>NAVY / 39</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-NAVY-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>NAVY / 38</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-NAVY-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657541200</id>
+      <title>NAVY / 37</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>MO1767-NAVY-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652657377360</id>
+    <published>2020-06-09T09:11:53-04:00</published>
+    <updated>2020-06-09T09:11:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sd-1971"/>
+    <title>SD 1971</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/12q33Ud2Ry2Pnq1HNLAa_1971-RED-2.jpg?v=1591708344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>NAVY / 37</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-NAVY-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>RED / 36</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-RED-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>RED / 40</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-RED-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>NAVY / 39</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-NAVY-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>NAVY / 36</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-NAVY-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>NAVY / 42</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-NAVY-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>RED / 39</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-RED-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>NAVY / 35</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-NAVY-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>RED / 41</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-RED-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>RED / 42</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-RED-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>RED / 38</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-RED-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>NAVY / 41</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-NAVY-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>RED / 37</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-RED-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>RED / 35</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-RED-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>NAVY / 38</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-NAVY-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652657377360</id>
+      <title>NAVY / 40</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>SD1971-NAVY-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652656722000</id>
+    <published>2020-06-09T09:10:51-04:00</published>
+    <updated>2020-06-09T09:10:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/mo-1773"/>
+    <title>MO 1773</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ENg3lG6lSi2lJHgNPtbR_1773-BLK-2.jpg?v=1591708308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>GOLD</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SILVER</s:tag>
+    <s:tag>SLIP ON</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>SILVER / 36</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-SILVER-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>GOLD / 40</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-GOLD-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>GOLD / 38</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-GOLD-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>SILVER / 42</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-SILVER-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>SILVER / 40</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-SILVER-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>GOLD / 35</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-GOLD-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>SILVER / 35</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-SILVER-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>BLACK / 35</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-BLACK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>GOLD / 41</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-GOLD-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>GOLD / 36</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-GOLD-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>GOLD / 37</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-GOLD-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>SILVER / 39</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-SILVER-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>SILVER / 41</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-SILVER-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>BLACK / 39</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-BLACK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>GOLD / 42</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-GOLD-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>BLACK / 36</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-BLACK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>BLACK / 38</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-BLACK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>GOLD / 39</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-GOLD-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>SILVER / 37</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-SILVER-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>SILVER / 38</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-SILVER-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656722000</id>
+      <title>BLACK / 37</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>MO1773-BLACK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652656001104</id>
+    <published>2020-06-09T09:09:41-04:00</published>
+    <updated>2020-06-09T09:09:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sd-1923"/>
+    <title>SD 1923</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/0Kyv4iv1TIydMdqxfZF9_cvnlGQZjQAOwoBoDarK0_imgonline-com-ua-CompressToSize-DdRPfSsgyUD.jpg?v=1591708228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>RED / 41</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-RED-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>BLACK / 35</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-BLACK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>BLACK / 38</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-BLACK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>RED / 36</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-RED-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>RED / 35</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-RED-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>BLACK / 36</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-BLACK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>RED / 39</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-RED-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>RED / 42</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-RED-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>RED / 40</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-RED-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>BLACK / 39</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-BLACK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>RED / 38</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-RED-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>RED / 37</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-RED-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652656001104</id>
+      <title>BLACK / 37</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1923-BLACK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652655673424</id>
+    <published>2020-06-09T09:08:30-04:00</published>
+    <updated>2020-06-09T09:08:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sd-1972"/>
+    <title>SD 1972</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/qQM3aY6bTdSwx69McC4n_IMG_3090.jpg?v=1591708142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>BLACK / 39</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-BLACK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>BLACK / 36</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-BLACK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>WHITE / 42</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-WHITE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>YELLOW / 39</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-YELLOW-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>WHITE / 36</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-WHITE-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>WHITE / 35</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-WHITE-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>YELLOW / 42</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-YELLOW-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>YELLOW / 37</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-YELLOW-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>YELLOW / 35</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-YELLOW-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>WHITE / 40</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-WHITE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>WHITE / 38</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-WHITE-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>YELLOW / 36</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-YELLOW-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>WHITE / 41</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-WHITE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>YELLOW / 38</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-YELLOW-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>WHITE / 37</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-WHITE-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>YELLOW / 41</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-YELLOW-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>BLACK / 38</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-BLACK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>BLACK / 37</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-BLACK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>YELLOW / 40</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-YELLOW-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>WHITE / 39</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-WHITE-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655673424</id>
+      <title>BLACK / 35</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>SD1972-BLACK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652654624848</id>
+    <published>2020-06-09T09:06:58-04:00</published>
+    <updated>2020-06-09T09:06:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sd-1739"/>
+    <title>SD 1739</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/d0EcSkrTo684H9U4AZ8Q_IMG_3074.jpg?v=1591708041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>KAKI / 40</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-KAKI-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>KAKI / 38</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-KAKI-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>BEIGE / 35</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-BEIGE-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>BEIGE / 40</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-BEIGE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>KAKI / 35</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-KAKI-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>BEIGE / 36</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-BEIGE-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>BEIGE / 37</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-BEIGE-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>BEIGE / 39</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-BEIGE-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>KAKI / 41</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-KAKI-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>KAKI / 37</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-KAKI-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>KAKI / 42</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-KAKI-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>BEIGE / 42</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-BEIGE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>BEIGE / 38</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-BEIGE-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>KAKI / 36</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-KAKI-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>KAKI / 39</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-KAKI-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654624848</id>
+      <title>BEIGE / 41</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1739-BEIGE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652654395472</id>
+    <published>2020-06-09T09:06:35-04:00</published>
+    <updated>2020-06-09T09:06:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sd-1888"/>
+    <title>SD 1888</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/Hi4ZpLaQlWbdd6aNt44p_IMG_3066.jpg?v=1591708007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654395472</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>SD1888-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654395472</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>SD1888-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654395472</id>
+      <title>BLACK / 35</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>SD1888-BLACK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654395472</id>
+      <title>BLACK / 37</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>SD1888-BLACK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654395472</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>SD1888-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654395472</id>
+      <title>BLACK / 36</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>SD1888-BLACK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654395472</id>
+      <title>BLACK / 39</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>SD1888-BLACK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654395472</id>
+      <title>BLACK / 38</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>SD1888-BLACK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652654035024</id>
+    <published>2020-06-09T09:05:21-04:00</published>
+    <updated>2020-06-09T09:05:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sd-1924"/>
+    <title>SD 1924</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/lyN2xH7KSduqqr3csDJy_IMG_3062.jpg?v=1591707967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BEIGE / 42</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BEIGE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>YELLOW / 36</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-YELLOW-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BLACK / 36</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BLACK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BEIGE / 40</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BEIGE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BEIGE / 37</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BEIGE-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BLACK / 38</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BLACK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>YELLOW / 38</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-YELLOW-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>YELLOW / 35</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-YELLOW-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>YELLOW / 37</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-YELLOW-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>YELLOW / 42</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-YELLOW-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>YELLOW / 39</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-YELLOW-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BEIGE / 38</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BEIGE-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BEIGE / 36</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BEIGE-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BLACK / 37</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BLACK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>YELLOW / 41</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-YELLOW-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BEIGE / 41</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BEIGE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>YELLOW / 40</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-YELLOW-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BEIGE / 35</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BEIGE-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BLACK / 35</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BLACK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BEIGE / 39</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BEIGE-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652654035024</id>
+      <title>BLACK / 39</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>SD1924-BLACK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652653215824</id>
+    <published>2020-06-09T09:03:39-04:00</published>
+    <updated>2020-06-09T09:03:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sd-1955"/>
+    <title>SD 1955</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/38Gsz5edQvST4DetTiFq_IMG_3046.jpg?v=1591707904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>PINK / 39</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-PINK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>PINK / 37</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-PINK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>KAKI / 38</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-KAKI-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>YELLOW / 42</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-YELLOW-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>KAKI / 41</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-KAKI-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>KAKI / 35</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-KAKI-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>KAKI / 40</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-KAKI-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>YELLOW / 37</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-YELLOW-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>YELLOW / 38</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-YELLOW-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>YELLOW / 39</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-YELLOW-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>YELLOW / 40</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-YELLOW-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>KAKI / 37</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-KAKI-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>PINK / 42</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-PINK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>KAKI / 36</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-KAKI-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>PINK / 35</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-PINK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>KAKI / 39</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-KAKI-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>YELLOW / 41</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-YELLOW-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>YELLOW / 36</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-YELLOW-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>YELLOW / 35</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-YELLOW-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>PINK / 40</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-PINK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>PINK / 36</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-PINK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>PINK / 38</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-PINK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>PINK / 41</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-PINK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652653215824</id>
+      <title>KAKI / 42</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>SD1955-KAKI-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4584061010000</id>
+    <published>2020-04-22T23:13:03-04:00</published>
+    <updated>2020-04-22T23:13:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/portree"/>
+    <title>PORTREE</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/GUAN1u2SmWmn6zZY7MFg_PORTREE-270-1.jpg?v=1587611674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>OPEN TOE</s:tag>
+    <s:tag>OPEN TOED</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WEDGE HEEL</s:tag>
+    <s:tag>WEDGE HEELS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 7.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 6.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 6</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4584061010000</id>
+      <title>BONE / 7</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>PORTREE-270-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583929348176</id>
+    <published>2020-04-22T19:43:16-04:00</published>
+    <updated>2020-04-22T19:43:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sd-1964"/>
+    <title>SD 1964</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/rEGtf7uRuhfPP1uYJ8Q9_IMG_3142.jpg?v=1589852282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>35</s:tag>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>42</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>KAKI</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>YELLOW</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>KAKI / 42</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-KAKI-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>KAKI / 41</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-KAKI-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>KAKI / 40</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-KAKI-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>KAKI / 39</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-KAKI-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>KAKI / 38</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-KAKI-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>KAKI / 37</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-KAKI-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>KAKI / 36</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-KAKI-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>KAKI / 35</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-KAKI-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>YELLOW / 42</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-YELLOW-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>YELLOW / 41</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-YELLOW-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>YELLOW / 40</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-YELLOW-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>YELLOW / 39</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-YELLOW-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>YELLOW / 38</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-YELLOW-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>YELLOW / 37</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-YELLOW-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>YELLOW / 36</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-YELLOW-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>YELLOW / 35</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-YELLOW-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>BLACK / 39</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-BLACK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>BLACK / 38</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-BLACK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>BLACK / 37</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-BLACK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>BLACK / 36</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-BLACK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583929348176</id>
+      <title>BLACK / 35</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>SD1964-BLACK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583905787984</id>
+    <published>2020-04-22T18:55:04-04:00</published>
+    <updated>2020-04-22T18:55:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madona-1"/>
+    <title>MADONA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/vzpceaAPSBOFUmB307pL_MADONA-680-1_ca9cd582-ff0e-4001-b877-1df8947137c7.jpg?v=1587596117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 7</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 7.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 8.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 8</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 9</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 6.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583905787984</id>
+      <title>PINK / 6</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-680-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777271888</id>
+    <published>2020-04-22T15:59:00-04:00</published>
+    <updated>2020-04-22T15:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/swt16"/>
+    <title>SWT16</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ibtOBvRBivrPnTfDjEwB_SWT-16-1.jpg?v=1587599469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>BOOT</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777009744</id>
+    <published>2020-04-22T15:58:31-04:00</published>
+    <updated>2020-04-22T15:58:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/oladonna"/>
+    <title>OLADONNA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/mvf9bZzRw6JgmwW0MJgp_OLADONNA-001-1.jpg?v=1587596448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>BOOT</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583776911440</id>
+    <published>2020-04-22T15:58:14-04:00</published>
+    <updated>2020-04-22T15:58:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madona"/>
+    <title>MADONA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/AimXWQDTFqnm0wDXPCcm_MADONA-001-1.jpg?v=1587595920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>SANDAL</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776911440</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>MADONA-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583776780368</id>
+    <published>2020-04-22T15:58:03-04:00</published>
+    <updated>2020-04-22T15:58:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/lentigione"/>
+    <title>LENTIGIONE</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/1fbPsIvkQwiVfFXmslfQ_LENTIGIONE-001-1.jpg?v=1587595896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>PLATFORM</s:tag>
+    <s:tag>PLATFORMS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583776780368</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LENTIGIONE-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

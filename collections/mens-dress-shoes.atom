@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/mens-dress-shoes.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:43-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777730640</id>
+    <published>2020-08-27T09:07:43-04:00</published>
+    <updated>2020-08-27T09:07:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/abaudien"/>
+    <title>ABAUDIEN</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/TtDXjRsWTmWyOLasEEeW_ABAUDIEN-001-1.jpg?v=1587593654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DRESS SHOE</s:tag>
+    <s:tag>DRESS SHOES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 13</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 9.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583778189392</id>
+    <published>2020-04-22T16:00:48-04:00</published>
+    <updated>2020-04-22T16:00:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/kevin-23-bk"/>
+    <title>KEVIN 23 BK</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>FLYING DEER</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/86S9h9ziQrONpTVacEJ2_KEVIN-23_BLACK_-1.jpg?v=1587594915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FLYING DEER<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flying Deer Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>11.5</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>13</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>9.5</s:tag>
+    <s:tag>DRESS SHOE</s:tag>
+    <s:tag>DRESS SHOES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778189392</id>
+      <title>BLACK / 13</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>KEVIN-23-BK-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778189392</id>
+      <title>BLACK / 12</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>KEVIN-23-BK-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778189392</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>KEVIN-23-BK-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778189392</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>KEVIN-23-BK-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778189392</id>
+      <title>BLACK / 9.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>KEVIN-23-BK-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778189392</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>KEVIN-23-BK-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778189392</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>KEVIN-23-BK-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778189392</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>KEVIN-23-BK-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778189392</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>KEVIN-23-BK-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778189392</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>KEVIN-23-BK-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777697872</id>
+    <published>2020-04-22T15:59:48-04:00</published>
+    <updated>2020-04-22T15:59:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/nynka"/>
+    <title>NYNKA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/9lVExvE7QiaXJ39kaKDn_NYNKE-220_-3.jpg?v=1587611614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DRESS SHOE</s:tag>
+    <s:tag>DRESS SHOES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 13</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 11</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 9.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 9</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 8.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777697872</id>
+      <title>BROWN / 8</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NYNKA-220-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777370192</id>
+    <published>2020-04-22T15:59:14-04:00</published>
+    <updated>2020-04-22T15:59:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/huttner"/>
+    <title>HUTTNER</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/HJOv5OMqS56KsIU2Pcx7_HUTTNER-R-009-1.jpg?v=1587594790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DRESS SHOE</s:tag>
+    <s:tag>DRESS SHOES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 13</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 9.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777370192</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>HUTTNER-R-009-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

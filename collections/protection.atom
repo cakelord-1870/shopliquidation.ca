@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/protection.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-04-26T14:11:24-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4588200689744</id>
+    <published>2020-04-26T14:11:24-04:00</published>
+    <updated>2020-04-26T14:11:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/mask-iv"/>
+    <title>MASK IV</title>
+    <s:type>PROTECTION</s:type>
+    <s:vendor>Shop Liquidation Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/rdhfJWN8TpeHdagSSn06_MASK-MILEEND-3.jpg?v=1588380878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shop Liquidation Canada<br>
+        <strong>Type: </strong>PROTECTION<br>
+        <strong>Price: </strong>
+            19.99 - 49.99
+            <a href="https://shopliquidation.ca/products/mask-iv">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in our Montreal workshop, QC, Canada</p>
+<p> - 3x Layer of 100% cotton fabric + a Level 2 Chirurgical Filter<br><br>100% Cotton and Washable</p>
+<p> - Machine Wash Delicate</p>
+<p> - Tumble Dry Low Heat</p>
+<p> - Do Not Iron</p>
+<p> - Better Dry FLat</p>
+<p><br>Include 1x Replaceable Filter:<br><br> - ASTM Level 2<br> - Fluid Resistance, mmHg | 120<br> - BFE | &gt; 98<br> - PFE, @ 0.1 micron | &gt; 98<br> - Delpta P, mm H2O / cm2 | &lt; 5.0<br> - Flame Spread | Class 1</p>
+<p>Additional filter (Pack of 5x) for 9.99$</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CANADA</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MASK</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>MONTREAL</s:tag>
+    <s:tag>PROTECTION</s:tag>
+    <s:tag>QUEBEC</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>NAVY / L/XL / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-IV-NV-LXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>NAVY / L/XL / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-IV-NV-LXL-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>NAVY / S/M / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-IV-NV-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>NAVY / S/M / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-IV-NV-SM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>WHITE / L/XL / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-IV-WB-LXL-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>WHITE / L/XL / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-IV-WB-LXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>WHITE / S/M / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-IV-WB-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>WHITE / S/M / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-IV-WB-SM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4588177522768</id>
+    <published>2020-04-26T13:29:17-04:00</published>
+    <updated>2020-04-26T13:29:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/mask-xi"/>
+    <title>MASK XI</title>
+    <s:type>PROTECTION</s:type>
+    <s:vendor>Shop Liquidation Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/MASKLOWELL004.jpg?v=1588382066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shop Liquidation Canada<br>
+        <strong>Type: </strong>PROTECTION<br>
+        <strong>Price: </strong>
+            19.99 - 49.99
+            <a href="https://shopliquidation.ca/products/mask-xi">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in our Montreal workshop, QC, Canada</p>
+<p> - 3x Layer of 100% cotton fabric + a Level 2 Chirurgical Filter<br><br>100% Cotton and Washable</p>
+<p> - Machine Wash Delicate</p>
+<p> - Tumble Dry Low Heat</p>
+<p> - Do Not Iron</p>
+<p> - Better Dry FLat</p>
+<p><br>Include 1x Replaceable Filter:<br><br> - ASTM Level 2<br> - Fluid Resistance, mmHg | 120<br> - BFE | &gt; 98<br> - PFE, @ 0.1 micron | &gt; 98<br> - Delpta P, mm H2O / cm2 | &lt; 5.0<br> - Flame Spread | Class 1</p>
+<p>Additional filter (Pack of 5x) for 9.99$</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CANADA</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>KIDS</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MASK</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>MONTREAL</s:tag>
+    <s:tag>PROTECTION</s:tag>
+    <s:tag>QUEBEC</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / L/XL / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-WB-LXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / L/XL / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-XI-WB-LXL-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / S/M / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-WB-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / S/M / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-XI-WB-SM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / JUNIOR / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-WB-JR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / JUNIOR / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-XI-WB-JR-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / L/XL / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-NV-LXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / L/XL / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-XI-NV-LXL-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / S/M / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-NV-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / S/M / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-XI-NV-SM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / JUNIOR / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-NV-JR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / JUNIOR / 3</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-NV-JR-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

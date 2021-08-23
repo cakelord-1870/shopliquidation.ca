@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/best-seller.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:26-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577126514768</id>
+    <published>2020-08-27T09:07:26-04:00</published>
+    <updated>2020-08-27T09:07:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/boyfriend"/>
+    <title>BOYFRIEND</title>
+    <s:type>JEANS</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/0bXJOxxTAS26ZdrhEkFQ_1322916-1.jpg?v=1587587146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>JEANS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Boyfriend Jeans</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>25</s:tag>
+    <s:tag>26</s:tag>
+    <s:tag>27</s:tag>
+    <s:tag>28</s:tag>
+    <s:tag>29</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>31</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577126514768</id>
+      <title>BLUE / 32 / MODERN RELAX</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322916D-BLUE-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577126514768</id>
+      <title>BLUE / 31 / MODERN RELAX</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322916D-BLUE-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577126514768</id>
+      <title>BLUE / 30 / MODERN RELAX</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322916D-BLUE-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577126514768</id>
+      <title>BLUE / 29 / MODERN RELAX</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322916D-BLUE-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577126514768</id>
+      <title>BLUE / 28 / MODERN RELAX</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322916D-BLUE-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577126514768</id>
+      <title>BLUE / 27 / MODERN RELAX</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322916D-BLUE-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577126514768</id>
+      <title>BLUE / 26 / MODERN RELAX</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322916D-BLUE-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577126514768</id>
+      <title>BLUE / 25 / MODERN RELAX</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322916D-BLUE-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577126514768</id>
+      <title>BLUE / 24 / MODERN RELAX</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322916D-BLUE-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577125466192</id>
+    <published>2020-08-27T09:07:24-04:00</published>
+    <updated>2020-08-27T09:07:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/blue-western"/>
+    <title>BLUE WESTERN</title>
+    <s:type>JEANS</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/a9vrxWfvSxKyYqAcOIxD_1322926D-BLUE-24-1.jpg?v=1587587207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>JEANS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Blue Western Jeans</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>25</s:tag>
+    <s:tag>26</s:tag>
+    <s:tag>27</s:tag>
+    <s:tag>28</s:tag>
+    <s:tag>29</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>31</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577125466192</id>
+      <title>BLUE / 32</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322926D-BLUE-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577125466192</id>
+      <title>BLUE / 31</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322926D-BLUE-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577125466192</id>
+      <title>BLUE / 30</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322926D-BLUE-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577125466192</id>
+      <title>BLUE / 29</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322926D-BLUE-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577125466192</id>
+      <title>BLUE / 28</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322926D-BLUE-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577125466192</id>
+      <title>BLUE / 27</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322926D-BLUE-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577125466192</id>
+      <title>BLUE / 26</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322926D-BLUE-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577125466192</id>
+      <title>BLUE / 25</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322926D-BLUE-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577125466192</id>
+      <title>BLUE / 24</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322926D-BLUE-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577124417616</id>
+    <published>2020-08-27T09:07:23-04:00</published>
+    <updated>2020-08-27T09:07:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/blk-white-stripe"/>
+    <title>BLK/WHITE STRIPE</title>
+    <s:type>JEANS</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/XrY5By5hT63OTYvE1p2A_1322794-1.jpg?v=1587414168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>JEANS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Blk/White Stripe Jeans</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>25</s:tag>
+    <s:tag>26</s:tag>
+    <s:tag>27</s:tag>
+    <s:tag>28</s:tag>
+    <s:tag>29</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>31</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577124417616</id>
+      <title>BLACK / 32 / HIGH RISE</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322794D-BLACK-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577124417616</id>
+      <title>BLACK / 31 / HIGH RISE</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322794D-BLACK-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577124417616</id>
+      <title>BLACK / 30 / HIGH RISE</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322794D-BLACK-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577124417616</id>
+      <title>BLACK / 29 / HIGH RISE</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322794D-BLACK-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577124417616</id>
+      <title>BLACK / 28 / HIGH RISE/SKINNY ANKLE</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322794D-BLACK-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577124417616</id>
+      <title>BLACK / 27 / HIGH RISE/SKINNY ANKLE</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322794D-BLACK-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577124417616</id>
+      <title>BLACK / 26 / HIGH RISE/SKINNY ANKLE</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322794D-BLACK-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577124417616</id>
+      <title>BLACK / 25 / HIGH RISE/SKINNY ANKLE</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322794D-BLACK-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577124417616</id>
+      <title>BLACK / 24 / HIGH RISE/SKINNY ANKLE</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322794D-BLACK-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577090961488</id>
+    <published>2020-08-27T09:07:20-04:00</published>
+    <updated>2020-08-27T09:07:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/butterfly-slv-dress"/>
+    <title>BUTTERFLY SLV DRESS</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/j8AdBRRRGO56uwJVfQWg_1322047-1.jpg?v=1587408915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Butterfly Slv Dress Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577090961488</id>
+      <title>WHITE / L</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322047D-WHITE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577090961488</id>
+      <title>WHITE / M</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322047D-WHITE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577090961488</id>
+      <title>WHITE / S</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322047D-WHITE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577090961488</id>
+      <title>WHITE / XS</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322047D-WHITE-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4588200689744</id>
+    <published>2020-04-26T14:11:24-04:00</published>
+    <updated>2020-04-26T14:11:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/mask-iv"/>
+    <title>MASK IV</title>
+    <s:type>PROTECTION</s:type>
+    <s:vendor>Shop Liquidation Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/rdhfJWN8TpeHdagSSn06_MASK-MILEEND-3.jpg?v=1588380878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shop Liquidation Canada<br>
+        <strong>Type: </strong>PROTECTION<br>
+        <strong>Price: </strong>
+            19.99 - 49.99
+            <a href="https://shopliquidation.ca/products/mask-iv">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in our Montreal workshop, QC, Canada</p>
+<p> - 3x Layer of 100% cotton fabric + a Level 2 Chirurgical Filter<br><br>100% Cotton and Washable</p>
+<p> - Machine Wash Delicate</p>
+<p> - Tumble Dry Low Heat</p>
+<p> - Do Not Iron</p>
+<p> - Better Dry FLat</p>
+<p><br>Include 1x Replaceable Filter:<br><br> - ASTM Level 2<br> - Fluid Resistance, mmHg | 120<br> - BFE | &gt; 98<br> - PFE, @ 0.1 micron | &gt; 98<br> - Delpta P, mm H2O / cm2 | &lt; 5.0<br> - Flame Spread | Class 1</p>
+<p>Additional filter (Pack of 5x) for 9.99$</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CANADA</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MASK</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>MONTREAL</s:tag>
+    <s:tag>PROTECTION</s:tag>
+    <s:tag>QUEBEC</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>NAVY / L/XL / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-IV-NV-LXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>NAVY / L/XL / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-IV-NV-LXL-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>NAVY / S/M / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-IV-NV-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>NAVY / S/M / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-IV-NV-SM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>WHITE / L/XL / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-IV-WB-LXL-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>WHITE / L/XL / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-IV-WB-LXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>WHITE / S/M / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-IV-WB-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588200689744</id>
+      <title>WHITE / S/M / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-IV-WB-SM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4588177522768</id>
+    <published>2020-04-26T13:29:17-04:00</published>
+    <updated>2020-04-26T13:29:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/mask-xi"/>
+    <title>MASK XI</title>
+    <s:type>PROTECTION</s:type>
+    <s:vendor>Shop Liquidation Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/MASKLOWELL004.jpg?v=1588382066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shop Liquidation Canada<br>
+        <strong>Type: </strong>PROTECTION<br>
+        <strong>Price: </strong>
+            19.99 - 49.99
+            <a href="https://shopliquidation.ca/products/mask-xi">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in our Montreal workshop, QC, Canada</p>
+<p> - 3x Layer of 100% cotton fabric + a Level 2 Chirurgical Filter<br><br>100% Cotton and Washable</p>
+<p> - Machine Wash Delicate</p>
+<p> - Tumble Dry Low Heat</p>
+<p> - Do Not Iron</p>
+<p> - Better Dry FLat</p>
+<p><br>Include 1x Replaceable Filter:<br><br> - ASTM Level 2<br> - Fluid Resistance, mmHg | 120<br> - BFE | &gt; 98<br> - PFE, @ 0.1 micron | &gt; 98<br> - Delpta P, mm H2O / cm2 | &lt; 5.0<br> - Flame Spread | Class 1</p>
+<p>Additional filter (Pack of 5x) for 9.99$</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CANADA</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>KIDS</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MASK</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>MONTREAL</s:tag>
+    <s:tag>PROTECTION</s:tag>
+    <s:tag>QUEBEC</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / L/XL / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-WB-LXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / L/XL / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-XI-WB-LXL-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / S/M / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-WB-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / S/M / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-XI-WB-SM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / JUNIOR / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-WB-JR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>WHITE / JUNIOR / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-XI-WB-JR-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / L/XL / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-NV-LXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / L/XL / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-XI-NV-LXL-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / S/M / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-NV-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / S/M / 3</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SL-MASK-XI-NV-SM-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / JUNIOR / 1</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-NV-JR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4588177522768</id>
+      <title>NAVY / JUNIOR / 3</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SL-MASK-XI-NV-JR-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577142702160</id>
+    <published>2020-04-20T00:08:13-04:00</published>
+    <updated>2020-04-20T00:08:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/cynthia"/>
+    <title>CYNTHIA</title>
+    <s:type>JEANS</s:type>
+    <s:vendor>DEX PLUS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/XleIgaCBTv2p4LWzIw2c_1372854-3.jpg?v=1587588528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX PLUS<br>
+        <strong>Type: </strong>JEANS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Plus Cynthia Jeans</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14</s:tag>
+    <s:tag>16</s:tag>
+    <s:tag>18</s:tag>
+    <s:tag>1X</s:tag>
+    <s:tag>20</s:tag>
+    <s:tag>22</s:tag>
+    <s:tag>24</s:tag>
+    <s:tag>25</s:tag>
+    <s:tag>26</s:tag>
+    <s:tag>27</s:tag>
+    <s:tag>28</s:tag>
+    <s:tag>29</s:tag>
+    <s:tag>2X</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>31</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>3X</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>PLUS SIZE</s:tag>
+    <s:tag>PLUS SIZES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>X</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577142702160</id>
+      <title>INDIGO / 22</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372854DP-INDIGO-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577142702160</id>
+      <title>INDIGO / 20</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372854DP-INDIGO-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577142702160</id>
+      <title>INDIGO / 18</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372854DP-INDIGO-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577142702160</id>
+      <title>INDIGO / 16</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372854DP-INDIGO-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577142702160</id>
+      <title>INDIGO / 14</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372854DP-INDIGO-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577128054864</id>
+    <published>2020-04-20T00:05:43-04:00</published>
+    <updated>2020-04-20T00:05:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/flower-1"/>
+    <title>FLOWER</title>
+    <s:type>JEANS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/oTvXiLhgSruH3nGCkyVP_1322790T-1.jpg?v=1587414005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JEANS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Flower Jeans</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>25</s:tag>
+    <s:tag>26</s:tag>
+    <s:tag>27</s:tag>
+    <s:tag>28</s:tag>
+    <s:tag>29</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>31</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 32</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 31</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 30</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 29</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 28</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 27</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 26</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 25</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577128054864</id>
+      <title>WHITE / 24</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322790T-WHITE-24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577115635792</id>
+    <published>2020-04-20T00:03:29-04:00</published>
+    <updated>2020-04-20T00:03:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/jean-jacket"/>
+    <title>JEANS JACKET</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/CdJsu8GvQKGcgR1c4BCJ_1379515-1.jpg?v=1587589238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Jean Jacket Jackets</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>24</s:tag>
+    <s:tag>25</s:tag>
+    <s:tag>26</s:tag>
+    <s:tag>27</s:tag>
+    <s:tag>28</s:tag>
+    <s:tag>29</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>31</s:tag>
+    <s:tag>32</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577115635792</id>
+      <title>BLUE / XL</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329515D-BLUE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577115635792</id>
+      <title>BLUE / L</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329515D-BLUE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577115635792</id>
+      <title>BLUE / M</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329515D-BLUE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577115635792</id>
+      <title>BLUE / S</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329515D-BLUE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577115635792</id>
+      <title>BLUE / XS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1329515D-BLUE-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577110392912</id>
+    <published>2020-04-20T00:02:31-04:00</published>
+    <updated>2020-04-20T00:02:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sarah"/>
+    <title>SARAH</title>
+    <s:type>JUMPSUITS</s:type>
+    <s:vendor>DEX PLUS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/KNvnOf0LRFiDPvouhMGm_1372398-1.jpg?v=1587363141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX PLUS<br>
+        <strong>Type: </strong>JUMPSUITS<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Plus Sarah Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1X</s:tag>
+    <s:tag>2X</s:tag>
+    <s:tag>3X</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JUMPSUIT</s:tag>
+    <s:tag>JUMPSUITS</s:tag>
+    <s:tag>PLUS SIZE</s:tag>
+    <s:tag>PLUS SIZES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>X</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577110392912</id>
+      <title>CHARCOAL / 3X</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1372398DP-CHARCOAL-3X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577110392912</id>
+      <title>CHARCOAL / 2X</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1372398DP-CHARCOAL-2X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577110392912</id>
+      <title>CHARCOAL / 1X</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1372398DP-CHARCOAL-1X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577110392912</id>
+      <title>CHARCOAL / X</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1372398DP-CHARCOAL-X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577107869776</id>
+    <published>2020-04-20T00:02:05-04:00</published>
+    <updated>2020-04-20T00:02:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/elizabeth"/>
+    <title>ELIZABETH</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX PLUS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/PzCMAaZrTD2EoOJoDDGo_1372029-1.jpg?v=1587362775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX PLUS<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Plus Elizabeth Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1X</s:tag>
+    <s:tag>2X</s:tag>
+    <s:tag>3X</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>PLUS SIZE</s:tag>
+    <s:tag>PLUS SIZES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>X</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577107869776</id>
+      <title>MULTI / 3X</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372029DP-MULTI-3X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577107869776</id>
+      <title>MULTI / 2X</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372029DP-MULTI-2X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577107869776</id>
+      <title>MULTI / 1X</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372029DP-MULTI-1X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577107869776</id>
+      <title>MULTI / X</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372029DP-MULTI-X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577107411024</id>
+    <published>2020-04-20T00:01:59-04:00</published>
+    <updated>2020-04-20T00:01:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/linda"/>
+    <title>LINDA</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX PLUS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/P2Tx1CWnR6mDuBRaf4zf_1372027-1.jpg?v=1587363073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX PLUS<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Plus Linda Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1X</s:tag>
+    <s:tag>2X</s:tag>
+    <s:tag>3X</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>PLUS SIZE</s:tag>
+    <s:tag>PLUS SIZES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>X</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577107411024</id>
+      <title>PURPLE / 3X</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372027DP-PURPLE-3X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577107411024</id>
+      <title>PURPLE / 2X</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372027DP-PURPLE-2X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577107411024</id>
+      <title>PURPLE / 1X</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372027DP-PURPLE-1X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577107411024</id>
+      <title>PURPLE / X</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1372027DP-PURPLE-X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577103708240</id>
+    <published>2020-04-20T00:01:20-04:00</published>
+    <updated>2020-04-20T00:01:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/salute-wrap-dress"/>
+    <title>SALUTE WRAP DRESS</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/MaOYv23ESVe88tO314yy_1322026-1.jpg?v=1587408685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Salute Wrap Dress Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577103708240</id>
+      <title>NAVY / XL</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322026DD-NAVY-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577103708240</id>
+      <title>NAVY / L</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322026DD-NAVY-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577103708240</id>
+      <title>NAVY / M</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322026DD-NAVY-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577103708240</id>
+      <title>NAVY / S</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322026DD-NAVY-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577103708240</id>
+      <title>NAVY / XS</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322026DD-NAVY-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577102102608</id>
+    <published>2020-04-20T00:01:05-04:00</published>
+    <updated>2020-04-20T00:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/perrywinkle"/>
+    <title>PERRYWINKLE</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/eD7RcvTVSfGr4UOIDAqA_1322312-2.jpg?v=1587443968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Perrywinkle Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577102102608</id>
+      <title>PERRYWINKLE / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322312DD-PERRYWINKLE -L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577102102608</id>
+      <title>PERRYWINKLE / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322312DD-PERRYWINKLE -M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577102102608</id>
+      <title>PERRYWINKLE / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322312DD-PERRYWINKLE -S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577102102608</id>
+      <title>PERRYWINKLE / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322312DD-PERRYWINKLE -XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577101709392</id>
+    <published>2020-04-20T00:00:59-04:00</published>
+    <updated>2020-04-20T00:00:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/orange-flower-dress"/>
+    <title>ORANGE FLOWER DRESS</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/RKJKb19PTaKoDdFsviwr_1322284-1.jpg?v=1587409923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Orange Flower Dress Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577101709392</id>
+      <title>CORAL / L</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322284D-CORAL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577101709392</id>
+      <title>CORAL / M</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322284D-CORAL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577101709392</id>
+      <title>CORAL / S</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322284D-CORAL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577101709392</id>
+      <title>CORAL / XS</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>1322284D-CORAL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577100005456</id>
+    <published>2020-04-20T00:00:43-04:00</published>
+    <updated>2020-04-20T00:00:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/mineral-wash"/>
+    <title>MINERAL WASH</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/Gptjl7qnRJqNP1wPDRqL_1322318-1.jpg?v=1587437490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Mineral Wash Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577100005456</id>
+      <title>MINERAL / L</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322318D-MINERAL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577100005456</id>
+      <title>MINERAL / M</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322318D-MINERAL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577100005456</id>
+      <title>MINERAL / S</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322318D-MINERAL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577100005456</id>
+      <title>MINERAL / XS</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322318D-MINERAL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577094369360</id>
+    <published>2020-04-19T23:59:44-04:00</published>
+    <updated>2020-04-19T23:59:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/flower"/>
+    <title>FLOWER</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/7uzb6szRCTYg78hJ4p5w_1322283-1.jpg?v=1587409780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Flower Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577094369360</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322283DD-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577094369360</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322283DD-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577094369360</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322283DD-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577094369360</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322283DD-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577094369360</id>
+      <title>BLACK / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322283DD-BLACK-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577093582928</id>
+    <published>2020-04-19T23:59:33-04:00</published>
+    <updated>2020-04-19T23:59:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/floral-emroidery"/>
+    <title>FLORAL EMROIDERY</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/4RCJ5IaQTKMz7U30j7BB_1322442-1.jpg?v=1587411813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Floral Emroidery Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577093582928</id>
+      <title>BLUE / XL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322442DD-BLUE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577093582928</id>
+      <title>BLUE / L</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322442DD-BLUE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577093582928</id>
+      <title>BLUE / M</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322442DD-BLUE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577093582928</id>
+      <title>BLUE / S</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322442DD-BLUE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577093582928</id>
+      <title>BLUE / XS</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1322442DD-BLUE-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577092796496</id>
+    <published>2020-04-19T23:59:24-04:00</published>
+    <updated>2020-04-19T23:59:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/dx00140"/>
+    <title>DX00140</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/nXg7IKEATSKFpvOyUqtc_1322278-1.jpg?v=1587586978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Dx00140 Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577092796496</id>
+      <title>IVORY / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322278DD-IVORY-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577092796496</id>
+      <title>IVORY / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322278DD-IVORY-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577092796496</id>
+      <title>IVORY / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322278DD-IVORY-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577092796496</id>
+      <title>IVORY / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322278DD-IVORY-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577092075600</id>
+    <published>2020-04-19T23:59:18-04:00</published>
+    <updated>2020-04-19T23:59:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/diagonal-jacq"/>
+    <title>DIAGONAL JACQ</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/6dNCkHv6T6JPweN86mPw_822076-1.jpg?v=1587408261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Diagonal Jacq Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577092075600</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>822076D-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577092075600</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>822076D-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577092075600</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>822076D-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577092075600</id>
+      <title>BLACK / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>822076D-BLACK-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577091649616</id>
+    <published>2020-04-19T23:59:11-04:00</published>
+    <updated>2020-04-19T23:59:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/cold-should-maxi-dress"/>
+    <title>COLD SHOULD MAXI DRESS</title>
+    <s:type>DRESSES</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/izxVvRNjQbWOIC2WEJfd_1322275-1.jpg?v=1587409589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>DRESSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Cold Should Maxi Dress Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>DRESS</s:tag>
+    <s:tag>DRESSES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577091649616</id>
+      <title>BLUE / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322275DD-BLUE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577091649616</id>
+      <title>BLUE / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322275DD-BLUE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577091649616</id>
+      <title>BLUE / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322275DD-BLUE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577091649616</id>
+      <title>BLUE / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322275DD-BLUE-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

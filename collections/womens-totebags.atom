@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/womens-totebags.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-04-20T17:36:28-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4581738840144</id>
+    <published>2020-04-20T17:36:28-04:00</published>
+    <updated>2020-04-20T17:36:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/libretto"/>
+    <title>LIBRETTO</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CELINE DION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/VThVQWmISOiGLbpkCIKA_libretto-sling-bag-pu-gallery-2018-zoom_1024x1024_08534668-131d-45f3-8169-acc46c9f6c19.jpg?v=1587418955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CELINE DION<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Celine Dion Handbag Collection</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>CELINE DION</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>NATURAL</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>TOTEBAG</s:tag>
+    <s:tag>TOTEBAGS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4581738840144</id>
+      <title>NATURAL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>TTE5394-NAT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578372026448</id>
+    <published>2020-04-20T04:02:22-04:00</published>
+    <updated>2020-04-20T04:02:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/partita"/>
+    <title>PARTITA</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CELINE DION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/oXT8FizGSmWzoknnpae5_12364192_fpx.jpg?v=1587369746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CELINE DION<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Celine Dion Handbag Collection</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>CELINE DION</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HANDBAG</s:tag>
+    <s:tag>HANDBAGS</s:tag>
+    <s:tag>SAND</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>TOTEBAG</s:tag>
+    <s:tag>TOTEBAGS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578372026448</id>
+      <title>SAND</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>SCH5714-SAND</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577183858768</id>
+    <published>2020-04-20T00:15:43-04:00</published>
+    <updated>2020-04-20T00:15:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/unison"/>
+    <title>UNISON</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CELINE DION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/6eUebZTRSKxmxfYjeXWg_celine_dion_shb5871-unison_studio_session-27345_839da506-550x550.jpg?v=1587419488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CELINE DION<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Celine Dion  Unison Bags</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GREY</s:tag>
+    <s:tag>HANDBAG</s:tag>
+    <s:tag>HANDBAGS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>TOTEBAG</s:tag>
+    <s:tag>TOTEBAGS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577183858768</id>
+      <title>GREY</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>SHB5871-GREY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

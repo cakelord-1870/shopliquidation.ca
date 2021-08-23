@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/caroline-neron.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:47-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583850639440</id>
+    <published>2020-08-27T09:07:47-04:00</published>
+    <updated>2020-08-27T09:07:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/adele-1"/>
+    <title>ADELE</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/lrPaA3gITnOHIC2BYGxU_1002901-1.jpg?v=1587592228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583850639440</id>
+      <title>PPL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002901</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583774158928</id>
+    <published>2020-08-27T09:07:40-04:00</published>
+    <updated>2020-08-27T09:07:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/atome-pk"/>
+    <title>ATOME PK</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/M2PiSVGcTI6WytczZiqG_1000994-1.jpg?v=1587591920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CUFFLINK</s:tag>
+    <s:tag>CUFFLINKS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774158928</id>
+      <title>SILVER / OS / CUFFLINK</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1000994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773044816</id>
+    <published>2020-08-27T09:07:39-04:00</published>
+    <updated>2020-08-27T09:07:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/adele"/>
+    <title>ADELE</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/FXP7l1HEQy6tNqM8TKM2_1002899-1.jpg?v=1587592042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773044816</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002899</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583774027856</id>
+    <published>2020-04-22T15:54:54-04:00</published>
+    <updated>2020-04-22T15:54:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/carbone"/>
+    <title>CARBONE</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/2RrSuF8NTjKohywHLoXw_1003065-1.jpg?v=1587592389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CUFFLINK</s:tag>
+    <s:tag>CUFFLINKS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774027856</id>
+      <title>SILVER / OS / CUFFLINK</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1003065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773765712</id>
+    <published>2020-04-22T15:54:51-04:00</published>
+    <updated>2020-04-22T15:54:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/code"/>
+    <title>CODE</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3rOzWoRZWK4bVPH7sP3g_1003067-1.jpg?v=1587592415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CUFFLINK</s:tag>
+    <s:tag>CUFFLINKS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773765712</id>
+      <title>SILVER / OS / CUFFLINK</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1003067</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773700176</id>
+    <published>2020-04-22T15:54:47-04:00</published>
+    <updated>2020-04-22T15:54:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/embleme"/>
+    <title>EMBLEME</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/SttlsFKRMGatzVsN54GQ_1000686-1.jpg?v=1587591875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CUFFLINK</s:tag>
+    <s:tag>CUFFLINKS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773700176</id>
+      <title>SILVER / OS / CUFFLINK</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1000686</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773634640</id>
+    <published>2020-04-22T15:54:44-04:00</published>
+    <updated>2020-04-22T15:54:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/dq-nomade"/>
+    <title>DQ NOMADE</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/uICdixC3T7uaztDc4wYj_1003111.jpg?v=1587592484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773634640</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1003111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773569104</id>
+    <published>2020-04-22T15:54:40-04:00</published>
+    <updated>2020-04-22T15:54:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/maillon"/>
+    <title>MAILLON</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/xxbOSiiZTM2wigaMItNm_1284818.jpg?v=1587592829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773569104</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1284818</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773470800</id>
+    <published>2020-04-22T15:54:34-04:00</published>
+    <updated>2020-04-22T15:54:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/dq-firmament"/>
+    <title>DQ FIRMAMENT</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/RY5e9vLlQOG4PMQMAlDs_1003102.jpg?v=1587592453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://shopliquidation.ca/products/dq-firmament">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773470800</id>
+      <title>SM / OS / PET JEWEL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1003102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773470800</id>
+      <title>LG / OS / PET JEWEL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1003103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773339728</id>
+    <published>2020-04-22T15:54:22-04:00</published>
+    <updated>2020-04-22T15:54:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/periple-1"/>
+    <title>PERIPLE</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/xPgp4TfuTya53CLvsSSv_1004573.jpg?v=1587592778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773339728</id>
+      <title>BLACK / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1004573</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773274192</id>
+    <published>2020-04-22T15:54:18-04:00</published>
+    <updated>2020-04-22T15:54:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/element-du-temps"/>
+    <title>ELEMENT DU TEMPS</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/SHdAUyuBRUGdVzTe2gqR_1003704-1.jpg?v=1587592509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>NECKLACE</s:tag>
+    <s:tag>NECKLACES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773274192</id>
+      <title>GL / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1003704</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773241424</id>
+    <published>2020-04-22T15:54:15-04:00</published>
+    <updated>2020-04-22T15:54:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/periple"/>
+    <title>PERIPLE</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/9tQoThzR2eGYKIzjRGks_1004574.jpg?v=1587592800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773241424</id>
+      <title>GL GR / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1004574</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773175888</id>
+    <published>2020-04-22T15:54:10-04:00</published>
+    <updated>2020-04-22T15:54:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madison-2"/>
+    <title>MADISON</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/h9NdlDGRzOR4vAVqIOUC_1002897-1.jpg?v=1587591986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773175888</id>
+      <title>SLV BLK / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002897</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773143120</id>
+    <published>2020-04-22T15:54:06-04:00</published>
+    <updated>2020-04-22T15:54:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sophia"/>
+    <title>SOPHIA</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ks5BcEQ8T5qTv4GQy32z_1002891-1.jpg?v=1587591946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773143120</id>
+      <title>GL ORAN / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002891</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583773110352</id>
+    <published>2020-04-22T15:54:02-04:00</published>
+    <updated>2020-04-22T15:54:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madison-1"/>
+    <title>MADISON</title>
+    <s:type>SUNGLASSES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/sJ4Ei1BgQ6Wz76oZ6ZKB_1002895-1.jpg?v=1587592291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>SUNGLASSES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sunglasses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SUGLASSES</s:tag>
+    <s:tag>SUNGLASS</s:tag>
+    <s:tag>SUNGLASSES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583773110352</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1002895</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583772782672</id>
+    <published>2020-04-22T15:53:46-04:00</published>
+    <updated>2020-04-22T15:53:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/timelapse"/>
+    <title>TIMELAPSE</title>
+    <s:type>WATCHES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/XgobluvaTaR42nNMp3Jd_1004539-1.jpg?v=1587592662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>WATCHES<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Watches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WATCH</s:tag>
+    <s:tag>WATCHES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772782672</id>
+      <title>GUNMETAL / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772782672</id>
+      <title>SILVER / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583772749904</id>
+    <published>2020-04-22T15:53:41-04:00</published>
+    <updated>2020-04-22T15:53:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/happy-hour"/>
+    <title>HAPPY HOUR</title>
+    <s:type>WATCHES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/Rl2aRzxqS26RJfj8zeqF_1004542-1.jpg?v=1587592748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>WATCHES<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Watches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WATCH</s:tag>
+    <s:tag>WATCHES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772749904</id>
+      <title>BLUE / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583772684368</id>
+    <published>2020-04-22T15:53:36-04:00</published>
+    <updated>2020-04-22T15:53:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/freelance"/>
+    <title>FREELANCE</title>
+    <s:type>WATCHES</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/uS93RtyQOeXldTGIDaAg_1004538-1.jpg?v=1587592629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>WATCHES<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Watches</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WATCH</s:tag>
+    <s:tag>WATCHES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583772684368</id>
+      <title>BROWN / OS</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>1004538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4581762859088</id>
+    <published>2020-04-20T18:21:10-04:00</published>
+    <updated>2020-04-20T18:21:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/nightlife"/>
+    <title>NIGHTLIFE</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/1HcAFxbS3SqrZRPVCVXH_70053030002016083115260835146.jpg?v=1587421274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->Caroline Neron Handbag Collection<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>CAROLINE NERON</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GREY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4581762859088</id>
+      <title>GREY</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>1002874</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578359803984</id>
+    <published>2020-04-20T04:00:05-04:00</published>
+    <updated>2020-04-20T04:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sublime-2"/>
+    <title>SUBLIME</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/lv7OcKfpQUWHiHvG0qT0_7002086000201503261552481569.jpg?v=1587369609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sublime Bags</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578359803984</id>
+      <title>BEIGE</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578328576080</id>
+    <published>2020-04-20T03:54:12-04:00</published>
+    <updated>2020-04-20T03:54:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/vip"/>
+    <title>VIP</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/LSL6Wy1hQIupFYTSQ2YP_70010729002014102119523911632.jpg?v=1587369257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->Caroline Neron Handbag Collection<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>CAROLINE NERON</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GREY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578328576080</id>
+      <title>GREY</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>1002434</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578320875600</id>
+    <published>2020-04-20T03:52:50-04:00</published>
+    <updated>2020-04-20T03:52:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/finesse"/>
+    <title>FINESSE</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/kYUchIVISHWY8ETzC3dN_700216320021_415032615525776225.jpg?v=1587420554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->Caroline Neron Handbag Collection<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BEIGE</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>CAROLINE NERON</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>LIGHT BLUE</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578320875600</id>
+      <title>PINK</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002851-PINK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578320875600</id>
+      <title>LIGHT BLUE</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002853</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578320875600</id>
+      <title>BEIGE</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002855</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578209038416</id>
+    <published>2020-04-20T03:32:10-04:00</published>
+    <updated>2020-04-20T03:32:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/soiree-festive-1"/>
+    <title>SOIREE FESTIVE</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/Mfkc0kklQ9y7Qwka3oLZ_70041730002016020319451739611_acb6b996-55ce-443e-b9ec-00264373de2d.jpg?v=1587421083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578209038416</id>
+      <title>BLACK</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002861</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578209038416</id>
+      <title>LIGHT GREY</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002862</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4578162016336</id>
+    <published>2020-04-20T03:22:46-04:00</published>
+    <updated>2020-04-20T03:22:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/soiree-festive"/>
+    <title>SOIREE FESTIVE</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/8PKROM7QuuskEKEN9jPm_7002173000201503261552598676.jpg?v=1606374150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->
+<!--StartFragment-->Caroline Neron Handbag Collection<!--EndFragment--></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>BEIGE</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>CAROLINE NERON</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>GREY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>LIGHT GREY</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578162016336</id>
+      <title>GREY</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1003267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4578162016336</id>
+      <title>BEIGE</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002859</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577183268944</id>
+    <published>2020-04-20T00:15:39-04:00</published>
+    <updated>2020-04-20T00:15:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sublime-1"/>
+    <title>SUBLIME</title>
+    <s:type>BAGS</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/XPyE5YwWRtahjWQI54Jc_70010893002014102119524153513.jpg?v=1587420885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>BAGS<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Sublime Bags</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BAGS</s:tag>
+    <s:tag>CLUTCH</s:tag>
+    <s:tag>CLUTCHES</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577183268944</id>
+      <title>BLACK</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1002437-BLACK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

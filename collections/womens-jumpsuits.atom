@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/womens-jumpsuits.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:28-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577149911120</id>
+    <published>2020-08-27T09:07:28-04:00</published>
+    <updated>2020-08-27T09:07:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/black-sport-stripe"/>
+    <title>BLACK SPORT STRIPE</title>
+    <s:type>JUMPSUITS</s:type>
+    <s:vendor>BLACKTAPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/oAs8bQSxRfm1hD3qIUmR_1322419-1.jpg?v=1587411454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACKTAPE<br>
+        <strong>Type: </strong>JUMPSUITS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blacktape Black Sport Stripe Jumpsuits</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JUMPSUIT</s:tag>
+    <s:tag>JUMPSUITS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149911120</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322419T-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149911120</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322419T-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149911120</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322419T-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149911120</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322419T-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577147224144</id>
+    <published>2020-08-27T09:07:27-04:00</published>
+    <updated>2020-08-27T09:07:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/button-down-jumpsuit"/>
+    <title>BUTTON DOWN JUMPSUIT</title>
+    <s:type>JUMPSUITS</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/CkvpWkcSRIqzOnvcdIHR_1322394-2.jpg?v=1587411284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>JUMPSUITS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Button Down Jumpsuit Jumpsuits</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JUMPSUIT</s:tag>
+    <s:tag>JUMPSUITS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577147224144</id>
+      <title>OAT / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322394D-OAT-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577147224144</id>
+      <title>OAT / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322394D-OAT-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577147224144</id>
+      <title>OAT / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322394D-OAT-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577147224144</id>
+      <title>OAT / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322394D-OAT-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577150402640</id>
+    <published>2020-04-20T00:09:38-04:00</published>
+    <updated>2020-04-20T00:09:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/josephine-jumpsuit"/>
+    <title>JOSEPHINE JUMPSUIT</title>
+    <s:type>JUMPSUITS</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/yURoG9YRHuhxgut60Q5V_1322293-1.jpg?v=1587410440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>JUMPSUITS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Josephine Jumpsuit Jumpsuits</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JUMPSUIT</s:tag>
+    <s:tag>JUMPSUITS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577150402640</id>
+      <title>NAVY / XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322293D-NAVY-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577150402640</id>
+      <title>NAVY / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322293D-NAVY-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577150402640</id>
+      <title>NAVY / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322293D-NAVY-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577150402640</id>
+      <title>NAVY / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322293D-NAVY-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577150402640</id>
+      <title>NAVY / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322293D-NAVY-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577149222992</id>
+    <published>2020-04-20T00:09:25-04:00</published>
+    <updated>2020-04-20T00:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/cleopatra-coveralls-stone"/>
+    <title>CLEOPATRA COVERALLS STONE</title>
+    <s:type>JUMPSUITS</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/tv9vGCqSSriGCciIHkGQ_1322415-1.jpg?v=1587443617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>JUMPSUITS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Cleopatra Coveralls Stone Jumpsuits</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JUMPSUIT</s:tag>
+    <s:tag>JUMPSUITS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149222992</id>
+      <title>GREY / XL</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322415D-GREY-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149222992</id>
+      <title>GREY / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322415D-GREY-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149222992</id>
+      <title>GREY / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322415D-GREY-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149222992</id>
+      <title>GREY / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322415D-GREY-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577149222992</id>
+      <title>GREY / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322415D-GREY-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577148633168</id>
+    <published>2020-04-20T00:09:21-04:00</published>
+    <updated>2020-04-20T00:09:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/short-coverall"/>
+    <title>SHORT COVERALL</title>
+    <s:type>JUMPSUITS</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/thpcLgJQLmhtsghV8jTg_1322296-1.jpg?v=1587410688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>JUMPSUITS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Short Coverall Jumpsuits</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JUMPSUIT</s:tag>
+    <s:tag>JUMPSUITS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577148633168</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322296D-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577148633168</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322296D-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577148633168</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322296D-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577148633168</id>
+      <title>BLACK / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322296D-BLACK-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577148272720</id>
+    <published>2020-04-20T00:09:16-04:00</published>
+    <updated>2020-04-20T00:09:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/jeans-jumper"/>
+    <title>JEANS JUMPER</title>
+    <s:type>JUMPSUITS</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/rOmBFH7qT9O7apENm630_1322447-1.jpg?v=1587412175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>JUMPSUITS<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Jeans Jumper Jumpsuits</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JEANS</s:tag>
+    <s:tag>JUMPSUIT</s:tag>
+    <s:tag>JUMPSUITS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577148272720</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1322447D-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577148272720</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1322447D-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577148272720</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1322447D-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577148272720</id>
+      <title>BLACK / XS</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1322447D-BLACK-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577147912272</id>
+    <published>2020-04-20T00:09:11-04:00</published>
+    <updated>2020-04-20T00:09:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/jumpsuit-orange"/>
+    <title>JUMPSUIT ORANGE</title>
+    <s:type>JUMPSUITS</s:type>
+    <s:vendor>DEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/l2A20Dn5SwqFaUle1rcv_1322427-1.jpg?v=1587443626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX<br>
+        <strong>Type: </strong>JUMPSUITS<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Jumpsuit Orange Jumpsuits</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JUMPSUIT</s:tag>
+    <s:tag>JUMPSUITS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577147912272</id>
+      <title>ORANGE / L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322427D-ORANGE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577147912272</id>
+      <title>ORANGE / M</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322427D-ORANGE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577147912272</id>
+      <title>ORANGE / S</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322427D-ORANGE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577147912272</id>
+      <title>ORANGE / XS</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1322427D-ORANGE-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577110392912</id>
+    <published>2020-04-20T00:02:31-04:00</published>
+    <updated>2020-04-20T00:02:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sarah"/>
+    <title>SARAH</title>
+    <s:type>JUMPSUITS</s:type>
+    <s:vendor>DEX PLUS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/KNvnOf0LRFiDPvouhMGm_1372398-1.jpg?v=1587363141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DEX PLUS<br>
+        <strong>Type: </strong>JUMPSUITS<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dex Plus Sarah Dresses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1X</s:tag>
+    <s:tag>2X</s:tag>
+    <s:tag>3X</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>JUMPSUIT</s:tag>
+    <s:tag>JUMPSUITS</s:tag>
+    <s:tag>PLUS SIZE</s:tag>
+    <s:tag>PLUS SIZES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WN1</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>X</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577110392912</id>
+      <title>CHARCOAL / 3X</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1372398DP-CHARCOAL-3X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577110392912</id>
+      <title>CHARCOAL / 2X</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1372398DP-CHARCOAL-2X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577110392912</id>
+      <title>CHARCOAL / 1X</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1372398DP-CHARCOAL-1X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577110392912</id>
+      <title>CHARCOAL / X</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>1372398DP-CHARCOAL-X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

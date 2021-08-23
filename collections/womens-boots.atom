@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/womens-boots.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:56-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652655083600</id>
+    <published>2020-08-27T09:07:56-04:00</published>
+    <updated>2020-08-27T09:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/bt-1794"/>
+    <title>BT 1794</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>VANESSA WU</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/W3PcgkHCTKmKLlOvApqc_IMG_3082.jpg?v=1591708102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANESSA WU<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VANESSA WU SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>36</s:tag>
+    <s:tag>37</s:tag>
+    <s:tag>38</s:tag>
+    <s:tag>39</s:tag>
+    <s:tag>40</s:tag>
+    <s:tag>41</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>GREY</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 41</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 40</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 38</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 37</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 39</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 35</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 37</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 36</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 36</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 39</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 42</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>BLACK / 35</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-BLACK-35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652655083600</id>
+      <title>GREY / 38</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>BT1794-GREY-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777271888</id>
+    <published>2020-04-22T15:59:00-04:00</published>
+    <updated>2020-04-22T15:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/swt16"/>
+    <title>SWT16</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ibtOBvRBivrPnTfDjEwB_SWT-16-1.jpg?v=1587599469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>BOOT</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777271888</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>SWT16-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777009744</id>
+    <published>2020-04-22T15:58:31-04:00</published>
+    <updated>2020-04-22T15:58:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/oladonna"/>
+    <title>OLADONNA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/mvf9bZzRw6JgmwW0MJgp_OLADONNA-001-1.jpg?v=1587596448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>5</s:tag>
+    <s:tag>5.5</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>6.5</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>BOOT</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>HIGH HEEL</s:tag>
+    <s:tag>HIGH HEELS</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 6.5</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-6.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777009744</id>
+      <title>BLACK / 6</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>OLADONNA-001-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

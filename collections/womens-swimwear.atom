@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/womens-swimwear.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-27T09:07:53-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615183827024</id>
+    <published>2020-08-27T09:07:53-04:00</published>
+    <updated>2020-08-27T09:07:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/avery"/>
+    <title>AVERY</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>KRISTA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/570593C-1.jpg?v=1589568625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KRISTA<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Krista Avery Bottom Ioshia 1X</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615183827024</id>
+      <title>IOSHIA / 2X</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>570593C-2X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615183827024</id>
+      <title>IOSHIA / 1X</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>570593C-1X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615183171664</id>
+    <published>2020-08-27T09:07:52-04:00</published>
+    <updated>2020-08-27T09:07:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/abigail"/>
+    <title>ABIGAIL</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>ALOHA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ZE8311-1.jpg?v=1589568708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALOHA<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Aloha Abigail Bottom Navy 14</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615183171664</id>
+      <title>NAVY / 16</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZE8311-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615183171664</id>
+      <title>NAVY / 14</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZE8311-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615181434960</id>
+    <published>2020-08-27T09:07:51-04:00</published>
+    <updated>2020-08-27T09:07:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/amelia"/>
+    <title>AMELIA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>BALTEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3204440-1.jpg?v=1589568960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALTEX<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Baltex Amelia Bottom Brown M</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615181434960</id>
+      <title>BROWN / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3204440-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615181434960</id>
+      <title>BROWN / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3204440-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615180189776</id>
+    <published>2020-08-27T09:07:50-04:00</published>
+    <updated>2020-08-27T09:07:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/ava"/>
+    <title>AVA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>SILHOUETTE SOLUTION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3106440-1.jpg?v=1589569484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SILHOUETTE SOLUTION<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silhouette Solution Ava Bottom Navy M</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615180189776</id>
+      <title>NAVY / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3106440-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615180189776</id>
+      <title>NAVY / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3106440-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615177568336</id>
+    <published>2020-08-27T09:07:49-04:00</published>
+    <updated>2020-08-27T09:07:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/beachdress"/>
+    <title>BEACHDRESS</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>CHRISTINA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/DR96501-BLUE.jpg?v=1589488568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHRISTINA<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Christina Beachdress Cover Up Grey S</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177568336</id>
+      <title>BLUE / M</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>DR96501-BLUE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177568336</id>
+      <title>BLUE / S</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>DR96501-BLUE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177568336</id>
+      <title>BORDEAU / M</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>DR96501-BORDEAU-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177568336</id>
+      <title>BORDEAU / S</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>DR96501-BORDEAU-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177568336</id>
+      <title>GREY / M</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>DR96501-GREY-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177568336</id>
+      <title>GREY / S</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>DR96501-GREY-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615177076816</id>
+    <published>2020-08-27T09:07:48-04:00</published>
+    <updated>2020-08-27T09:07:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/bettevneck"/>
+    <title>BETTEVNECK</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>ELIZABETH JANE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/01029-091HOUNDSTOOTH.jpg?v=1589488540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ELIZABETH JANE<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elizabeth Jane Bettevneck Top Houndstooth Xs</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177076816</id>
+      <title>HOUNDSTOOTH / XL</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>01029-091-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177076816</id>
+      <title>HOUNDSTOOTH / L</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>01029-091-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177076816</id>
+      <title>HOUNDSTOOTH / M</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>01029-091-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177076816</id>
+      <title>HOUNDSTOOTH / S</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>01029-091-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615177076816</id>
+      <title>HOUNDSTOOTH / XS</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>01029-091-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615183925328</id>
+    <published>2020-05-14T16:39:08-04:00</published>
+    <updated>2020-05-14T16:39:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/sofia"/>
+    <title>SOFIA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>SOUTHCOAST</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ZE8394M-1.jpg?v=1589569131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SOUTHCOAST<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Southcoast Sofia Bottom Flower L</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615183925328</id>
+      <title>FLOWER / XL</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZE8394M-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615183925328</id>
+      <title>FLOWER / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZE8394M-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615183728720</id>
+    <published>2020-05-14T16:38:55-04:00</published>
+    <updated>2020-05-14T16:38:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/ella"/>
+    <title>ELLA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>ALOHA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ZE8347M-1.jpg?v=1589567902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALOHA<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Aloha Ella Bottom Red 14</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615183728720</id>
+      <title>RED / 16</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZE8347M-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615183728720</id>
+      <title>RED / 14</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZE8347M-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615183532112</id>
+    <published>2020-05-14T16:38:49-04:00</published>
+    <updated>2020-05-14T16:38:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/mila"/>
+    <title>MILA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>SILHOUETTE SOLUTION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3116040-1.jpg?v=1589568392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SILHOUETTE SOLUTION<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silhouette Solution Mila Bottom Black 14</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615183532112</id>
+      <title>BLACK / 16</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3116040-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615183532112</id>
+      <title>BLACK / 14</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3116040-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615182483536</id>
+    <published>2020-05-14T16:38:37-04:00</published>
+    <updated>2020-05-14T16:38:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/evelyn-1"/>
+    <title>EVELYN</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>CAPTIVA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3303240-1.jpg?v=1589568441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAPTIVA<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Captiva Evelyn Bottom Black M</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615182483536</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3303240-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615182483536</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3303240-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615181729872</id>
+    <published>2020-05-14T16:38:22-04:00</published>
+    <updated>2020-05-14T16:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/harper"/>
+    <title>HARPER</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>BALTEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3222541-1.jpg?v=1589567527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALTEX<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Baltex Harper Bottom Red 10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615181729872</id>
+      <title>RED / 14</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3222541-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615181729872</id>
+      <title>RED / 12</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3222541-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615181729872</id>
+      <title>RED / 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3222541-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615181074512</id>
+    <published>2020-05-14T16:37:53-04:00</published>
+    <updated>2020-05-14T16:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/mia"/>
+    <title>MIA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>THE COLLECTION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/4408340-1.jpg?v=1589568328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THE COLLECTION<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Collection Mia Bottom Brown M</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615181074512</id>
+      <title>BROWN / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4408340-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615181074512</id>
+      <title>BROWN / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4408340-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615180484688</id>
+    <published>2020-05-14T16:37:36-04:00</published>
+    <updated>2020-05-14T16:37:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/isabella-1"/>
+    <title>ISABELLA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>BE CREATIVE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3510541-1.jpg?v=1589567854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BE CREATIVE<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Be Creative Isabella Bottom Black M</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615180484688</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3510541-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615180484688</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3510541-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615179960400</id>
+    <published>2020-05-14T16:37:15-04:00</published>
+    <updated>2020-05-14T16:37:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/olivia-1"/>
+    <title>OLIVIA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>BALTEX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3206641-1.jpg?v=1589568161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BALTEX<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Baltex Olivia Bottom Multi M</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615179960400</id>
+      <title>MULTI / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3206641-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615179960400</id>
+      <title>MULTI / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3206641-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615179698256</id>
+    <published>2020-05-14T16:37:08-04:00</published>
+    <updated>2020-05-14T16:37:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/erica"/>
+    <title>ERICA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>BODY ID</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/BXS18504LD-1.jpg?v=1589568223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BODY ID<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Body Id Erica Bottom Blue 10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615179698256</id>
+      <title>BLUE / 12</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>BX518504LD-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615179698256</id>
+      <title>BLUE / 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>BX518504LD-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615179468880</id>
+    <published>2020-05-14T16:37:01-04:00</published>
+    <updated>2020-05-14T16:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/leslie"/>
+    <title>LESLIE</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>BODY ID</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/BXS18505LD-1.jpg?v=1589567781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BODY ID<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Body Id Leslie Bottom Black M</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615179468880</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>BX518505LD-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615179468880</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>BX518505LD-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615179173968</id>
+    <published>2020-05-14T16:36:55-04:00</published>
+    <updated>2020-05-14T16:36:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/nicole-1"/>
+    <title>NICOLE</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>BE CREATIVE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/1B2009C-1.jpg?v=1589569019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BE CREATIVE<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Be Creative Nicole Bottom Blue 10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615179173968</id>
+      <title>BLUE / 12</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>1B2009C-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615179173968</id>
+      <title>BLUE / 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>1B2009C-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615178977360</id>
+    <published>2020-05-14T16:36:50-04:00</published>
+    <updated>2020-05-14T16:36:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/diana"/>
+    <title>DIANA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>CAPTIVA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3302440-py-1.jpg?v=1589569434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAPTIVA<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Captiva Diana Bottom Purple 10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178977360</id>
+      <title>PURPLE / 12</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3302440-PY-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178977360</id>
+      <title>PURPLE / 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3302440-PY-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615178813520</id>
+    <published>2020-05-14T16:36:44-04:00</published>
+    <updated>2020-05-14T16:36:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/danny"/>
+    <title>DANNY</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>CAPTIVA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3302440-yp-1.jpg?v=1589488609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAPTIVA<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Captiva Danny Bottom Yellow 10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178813520</id>
+      <title>YELLOW / 12</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3302440-YP-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178813520</id>
+      <title>YELLOW / 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3302440-YP-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615178747984</id>
+    <published>2020-05-14T16:36:38-04:00</published>
+    <updated>2020-05-14T16:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/karine"/>
+    <title>KARINE</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>CAPTIVA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3302440-pur-1.jpg?v=1589569072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAPTIVA<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Captiva Karine Bottom Purple 10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178747984</id>
+      <title>PURPLE / 12</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3302440-PUR-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178747984</id>
+      <title>PURPLE / 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3302440-PUR-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615178682448</id>
+    <published>2020-05-14T16:36:32-04:00</published>
+    <updated>2020-05-14T16:36:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/emily-1"/>
+    <title>EMILY</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>CAPTIVA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/3302440-YEL-1.jpg?v=1589568279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAPTIVA<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Captiva Emily Bottom Yellow 12</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178682448</id>
+      <title>YELLOW / 12</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3302440-YEL-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178682448</id>
+      <title>YELLOW / 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>3302440-YEL-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615178551376</id>
+    <published>2020-05-14T16:36:26-04:00</published>
+    <updated>2020-05-14T16:36:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/julie-1"/>
+    <title>JULIE</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>PROFILE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/82321-1.jpg?v=1589567691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PROFILE<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Profile Julie Bottom Black 10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178551376</id>
+      <title>BLACK / 12</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>82321-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178551376</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>82321-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615178387536</id>
+    <published>2020-05-14T16:36:20-04:00</published>
+    <updated>2020-05-14T16:36:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/emma-1"/>
+    <title>EMMA</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>THE COLLECTION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/RN70203-1.jpg?v=1589567462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THE COLLECTION<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Collection Emma Bottom Black M</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178387536</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>RN70203-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178387536</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>RN70203-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615178256464</id>
+    <published>2020-05-14T16:36:16-04:00</published>
+    <updated>2020-05-14T16:36:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/flower-2"/>
+    <title>FLOWER</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>SOUTH COAST</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/RC30C-ASSTFLOWER-1.jpg?v=1589488580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SOUTH COAST<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">South Coast Flower Bottom Asst 10</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178256464</id>
+      <title>ASST / 10</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>RC30C-ASST-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4615178059856</id>
+    <published>2020-05-14T16:36:10-04:00</published>
+    <updated>2020-05-14T16:36:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/nadine"/>
+    <title>NADINE</title>
+    <s:type>SWIMWEAR</s:type>
+    <s:vendor>THE COLLECTION</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/4406440-1.jpg?v=1589488575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>THE COLLECTION<br>
+        <strong>Type: </strong>SWIMWEAR<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Collection Nadine Bottom Brown M</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>WN2</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178059856</id>
+      <title>BROWN / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4406440-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4615178059856</id>
+      <title>BROWN / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4406440-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

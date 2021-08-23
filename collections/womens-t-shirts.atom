@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/womens-t-shirts.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-04-20T00:25:23-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577237794896</id>
+    <published>2020-04-20T00:25:23-04:00</published>
+    <updated>2020-04-20T00:25:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/theresa"/>
+    <title>THERESA</title>
+    <s:type>T-SHIRTS</s:type>
+    <s:vendor>ARKITECT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/kSu7PVHkRwuakm0rUuld_UA-486192.__S382917-0317-1.jpg?v=1587591075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ARKITECT<br>
+        <strong>Type: </strong>T-SHIRTS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Arkitect Theresa T-Shirts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>T-SHIRTS</s:tag>
+    <s:tag>TANK TOPS</s:tag>
+    <s:tag>WHITE</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577237794896</id>
+      <title>WHITE / XL</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>S382917-0317-WHITE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577237794896</id>
+      <title>WHITE / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>S382917-0317-WHITE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577237794896</id>
+      <title>WHITE / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>S382917-0317-WHITE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577237794896</id>
+      <title>WHITE / S</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>S382917-0317-WHITE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577231241296</id>
+    <published>2020-04-20T00:24:09-04:00</published>
+    <updated>2020-04-20T00:24:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/madison"/>
+    <title>MADISON</title>
+    <s:type>T-SHIRTS</s:type>
+    <s:vendor>ZOLLA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/wSM9eSwXTbK4AqYbsVZW_27233364023._Zolla_-1.jpg?v=1587589460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ZOLLA<br>
+        <strong>Type: </strong>T-SHIRTS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Zolla Madison T-Shirts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>T-SHIRT</s:tag>
+    <s:tag>T-SHIRTS</s:tag>
+    <s:tag>TANK TOP</s:tag>
+    <s:tag>TANK TOPS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577231241296</id>
+      <title>WHITE / XL</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>27233364023-WHITE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577231241296</id>
+      <title>WHITE / L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>27233364023-WHITE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577231241296</id>
+      <title>WHITE / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>27233364023-WHITE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577231241296</id>
+      <title>WHITE / S</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>27233364023-WHITE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577227964496</id>
+    <published>2020-04-20T00:23:33-04:00</published>
+    <updated>2020-04-20T00:23:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/joseph"/>
+    <title>JOSEPH</title>
+    <s:type>T-SHIRTS</s:type>
+    <s:vendor>WEAR ME LOVE ME</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/4DydFraiQfuAlq2HntJm_478356116-1.jpg?v=1587589390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WEAR ME LOVE ME<br>
+        <strong>Type: </strong>T-SHIRTS<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Wear Me Love Me Joseph T-Shirts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>T-SHIRT</s:tag>
+    <s:tag>T-SHIRTS</s:tag>
+    <s:tag>TANK TOP</s:tag>
+    <s:tag>TANK TOPS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577227964496</id>
+      <title>GREY / M</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>478356116-GREY-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577227964496</id>
+      <title>GREY / S</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>478356116-GREY-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577227964496</id>
+      <title>GREY / XS</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>478356116-GREY-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4577215283280</id>
+    <published>2020-04-20T00:21:23-04:00</published>
+    <updated>2020-04-20T00:21:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/jacqueline"/>
+    <title>JACQUELINE</title>
+    <s:type>T-SHIRTS</s:type>
+    <s:vendor>BRONZINI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/KGZOP5zEQerypwtVq6pq_S382917-0117-1.jpg?v=1587590056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRONZINI<br>
+        <strong>Type: </strong>T-SHIRTS<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bronzini Jacqueline T-Shirts</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>FEMMES</s:tag>
+    <s:tag>FILLES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>T-SHIRT</s:tag>
+    <s:tag>T-SHIRTS</s:tag>
+    <s:tag>WMNS</s:tag>
+    <s:tag>WOMAN</s:tag>
+    <s:tag>WOMEN</s:tag>
+    <s:tag>WOMENS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577215283280</id>
+      <title>INDIGO / L</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>S382917-0117-INDIGO-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577215283280</id>
+      <title>INDIGO / M</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>S382917-0117-INDIGO-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4577215283280</id>
+      <title>INDIGO / S</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>S382917-0117-INDIGO-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shopliquidation.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shopliquidation.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shopliquidation.ca/collections/the-mens-collection.atom"/>
+  <title>Shop Liquidation Canada</title>
+  <updated>2020-08-28T00:48:12-04:00</updated>
+  <author>
+    <name>Shop Liquidation Canada</name>
+  </author>
+  <entry>
+    <id>https://shopliquidation.ca/products/4780405325904</id>
+    <published>2020-08-28T00:48:12-04:00</published>
+    <updated>2020-08-28T00:48:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-205-red"/>
+    <title>N.2069 PARKA</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/205-RED-1.jpg?v=1598588119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER JACKET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FAUX FUR</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405325904</id>
+      <title>RED / S</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069REKL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405325904</id>
+      <title>RED / M</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069REKL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405325904</id>
+      <title>RED / L</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069REKL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405325904</id>
+      <title>RED / XL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069REKL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405325904</id>
+      <title>RED / XXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069REKL-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405325904</id>
+      <title>RED / XXXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069REKL-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4780405260368</id>
+    <published>2020-08-28T00:48:11-04:00</published>
+    <updated>2020-08-28T00:48:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-205-black"/>
+    <title>N.2069 PARKA</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/205-BLACK-1.jpg?v=1598588086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER JACKET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLACK</s:tag>
+    <s:tag>FAUX FUR</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405260368</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069BLKL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405260368</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069BLKL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405260368</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069BLKL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405260368</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069BLKL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405260368</id>
+      <title>BLACK / XXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069BLKL-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405260368</id>
+      <title>BLACK / XXXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069BLKL-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4780405096528</id>
+    <published>2020-08-28T00:48:11-04:00</published>
+    <updated>2020-08-28T00:48:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-205-kaki"/>
+    <title>N.2069 PARKA</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/205-KAKI-1.jpg?v=1598588057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER JACKET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ARMY</s:tag>
+    <s:tag>FAUX FUR</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405096528</id>
+      <title>ARMY / S</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069ARKL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405096528</id>
+      <title>ARMY / M</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069ARKL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405096528</id>
+      <title>ARMY / L</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069ARKL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405096528</id>
+      <title>ARMY / XL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069ARKL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405096528</id>
+      <title>ARMY / XXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069ARKL-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780405096528</id>
+      <title>ARMY / XXXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>204-2069ARKL-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652670779472</id>
+    <published>2020-08-28T00:48:07-04:00</published>
+    <updated>2020-08-28T00:48:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-234"/>
+    <title>N.2041 BOMBER</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/4dt0zqFvSGOcE6OVdHtV_MANTEAU-14-0093.jpg?v=1591709458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER JACKET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>FAUX FUR</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>KAKI</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>STREETWEAR</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670779472</id>
+      <title>ANTHRACITE / S</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2041ANKL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670779472</id>
+      <title>ANTHRACITE / M</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2041ANKL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670779472</id>
+      <title>ANTHRACITE / L</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2041ANKL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670779472</id>
+      <title>ANTHRACITE / XL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2041ANKL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670779472</id>
+      <title>ANTHRACITE / XXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2041ANKL-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670779472</id>
+      <title>ANTHRACITE / XXXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2041ANKL-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652670582864</id>
+    <published>2020-08-28T00:48:06-04:00</published>
+    <updated>2020-08-28T00:48:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-237"/>
+    <title>N.2040 PARKA</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/IA4IOYKMTeaYhFmohBwj_MANTEAU-20-0004.jpg?v=1591709431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER JACKET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>FAUX FUR</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>STREETWEAR</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670582864</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040BLKL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670582864</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040BLKL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670582864</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040BLKL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670582864</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040BLKL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670582864</id>
+      <title>BLACK / XXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040BLKL-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670582864</id>
+      <title>BLACK / XXXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040BLKL-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652670353488</id>
+    <published>2020-08-28T00:48:05-04:00</published>
+    <updated>2020-08-28T00:48:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-238"/>
+    <title>N.2040 PARKA</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/rcUdEqkmTkSxqWKJHb54_MANTEAU-20-0009.jpg?v=1591709410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER JACKET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>FAUX FUR</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>KAKI</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>STREETWEAR</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670353488</id>
+      <title>NAVY / S</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040NAKL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670353488</id>
+      <title>NAVY / M</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040NAKL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670353488</id>
+      <title>NAVY / L</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040NAKL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670353488</id>
+      <title>NAVY / XL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040NAKL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670353488</id>
+      <title>NAVY / XXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040NAKL-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670353488</id>
+      <title>NAVY / XXXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2040NAKL-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652670025808</id>
+    <published>2020-08-28T00:48:04-04:00</published>
+    <updated>2020-08-28T00:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-332sp-2"/>
+    <title>N.1967 PANT</title>
+    <s:type>PANTS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/lwAbM8tS2Se5IbCKyCbT_PANTALON-1-0031.jpg?v=1591709379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>PANTS<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER PANTS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>PANTS</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SKI</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670025808</id>
+      <title>RED / S</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967RED-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670025808</id>
+      <title>RED / M</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967RED-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670025808</id>
+      <title>RED / L</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967RED-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670025808</id>
+      <title>RED / XL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967RED-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670025808</id>
+      <title>RED / XXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967RED-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652670025808</id>
+      <title>RED / XXXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967RED-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652668420176</id>
+    <published>2020-08-28T00:48:03-04:00</published>
+    <updated>2020-08-28T00:48:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-332sp-1"/>
+    <title>N.1967 PANT</title>
+    <s:type>PANTS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/iiBySukNT5uglaYynxLh_PANTALON-2-0035.jpg?v=1591709311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>PANTS<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER PANTS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>BLUE</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>PANTS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SKI</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652668420176</id>
+      <title>BLUE / S</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967BLU-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652668420176</id>
+      <title>BLUE / M</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967BLU-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652668420176</id>
+      <title>BLUE / L</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967BLU-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652668420176</id>
+      <title>BLUE / XL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967BLU-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652668420176</id>
+      <title>BLUE / XXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967BLU-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652668420176</id>
+      <title>BLUE / XXXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967BLU-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652666716240</id>
+    <published>2020-08-28T00:48:02-04:00</published>
+    <updated>2020-08-28T00:48:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-332sp"/>
+    <title>N.1967 PANT</title>
+    <s:type>PANTS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/mD8uMstPReSn8FYDhKM8_PANTALON-3-0038.jpg?v=1591709151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>PANTS<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER PANTS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>PANTS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SKI</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666716240</id>
+      <title>ORANGE / S</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967ORA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666716240</id>
+      <title>ORANGE / M</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967ORA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666716240</id>
+      <title>ORANGE / L</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967ORA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666716240</id>
+      <title>ORANGE / XL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967ORA-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666716240</id>
+      <title>ORANGE / XXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967ORA-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666716240</id>
+      <title>ORANGE / XXXL</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>205-1967ORA-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652666617936</id>
+    <published>2020-08-28T00:48:01-04:00</published>
+    <updated>2020-08-28T00:48:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-318s-1"/>
+    <title>N.2044 SPORT</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/NkJbBdwERK6MfINGW1sI_MANTEAU-16-0107.jpg?v=1591709132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER JACKET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>ANTHRACITE</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SKI</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666617936</id>
+      <title>ANTHRACITE / S</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044ANKL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666617936</id>
+      <title>ANTHRACITE / M</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044ANKL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666617936</id>
+      <title>ANTHRACITE / L</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044ANKL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666617936</id>
+      <title>ANTHRACITE / XL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044ANKL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666617936</id>
+      <title>ANTHRACITE / XXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044ANKL-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666617936</id>
+      <title>ANTHRACITE / XXXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044ANKL-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652666191952</id>
+    <published>2020-08-28T00:48:00-04:00</published>
+    <updated>2020-08-28T00:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-324s"/>
+    <title>N.2043 SPORT</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/DqW8m7eFQCGlGJCgk8IQ_MANTEAU-19-0121.jpg?v=1591709101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER JACKET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SKI</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666191952</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043BLKL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666191952</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043BLKL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666191952</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043BLKL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666191952</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043BLKL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666191952</id>
+      <title>BLACK / XXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043BLKL-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652666191952</id>
+      <title>BLACK / XXXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043BLKL-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652665667664</id>
+    <published>2020-08-28T00:47:59-04:00</published>
+    <updated>2020-08-28T00:47:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-318s"/>
+    <title>N.2044 SPORT</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/JKgqLjCmT3KBAE26RZ0P_MANTEAU-17-0111.jpg?v=1591709079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER JACKET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SKI</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652665667664</id>
+      <title>BLACK / S</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044BLKL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652665667664</id>
+      <title>BLACK / M</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044BLKL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652665667664</id>
+      <title>BLACK / L</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044BLKL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652665667664</id>
+      <title>BLACK / XL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044BLKL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652665667664</id>
+      <title>BLACK / XXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044BLKL-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652665667664</id>
+      <title>BLACK / XXXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2044BLKL-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652664782928</id>
+    <published>2020-08-28T00:47:58-04:00</published>
+    <updated>2020-08-28T00:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/n-324s-2"/>
+    <title>N.2043 SPORT</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>Nic &amp; Fion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/uXjqVwQxRdmXdQB5yewB_MANTEAU-18-0119.jpg?v=1591709061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nic &amp; Fion<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proudly Design in our Montreal Office</p>
+<p>WINTER JACKET</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2019</s:tag>
+    <s:tag>APPAREL</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JACKET</s:tag>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>RED</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>SKI</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:tag>XXXL</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652664782928</id>
+      <title>RED / S</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043REKL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652664782928</id>
+      <title>RED / M</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043REKL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652664782928</id>
+      <title>RED / L</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043REKL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652664782928</id>
+      <title>RED / XL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043REKL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652664782928</id>
+      <title>RED / XXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043REKL-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652664782928</id>
+      <title>RED / XXXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>204-2043REKL-XXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4780362629200</id>
+    <published>2020-08-27T22:02:18-04:00</published>
+    <updated>2020-08-27T22:02:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/white-peak-down-jacket"/>
+    <title>WHITE PEAK DOWN JACKET</title>
+    <s:type>JACKETS</s:type>
+    <s:vendor>WHITE PEAK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ZeuWRSM9RE2HfKlLa2uj_a.jpg?v=1598716672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WHITE PEAK<br>
+        <strong>Type: </strong>JACKETS<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JACKETS</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780362629200</id>
+      <title>GREY / S</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>M-WP-WJ-GREY-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780362629200</id>
+      <title>GREY / M</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>M-WP-WJ-GREY-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780362629200</id>
+      <title>GREY / L</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>M-WP-WJ-GREY-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780362629200</id>
+      <title>GREY / XL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>M-WP-WJ-GREY-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780362629200</id>
+      <title>GREY / XXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>M-WP-WJ-GREY-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780362629200</id>
+      <title>GREEN / S</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>M-WP-WJ-GREEN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780362629200</id>
+      <title>GREEN / M</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>M-WP-WJ-GREEN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780362629200</id>
+      <title>GREEN / L</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>M-WP-WJ-GREEN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780362629200</id>
+      <title>GREEN / XL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>M-WP-WJ-GREEN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780362629200</id>
+      <title>GREEN / XXL</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>M-WP-WJ-GREEN-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4780213403728</id>
+    <published>2020-08-27T15:38:18-04:00</published>
+    <updated>2020-08-27T15:38:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/pr-1913"/>
+    <title>PR 1913</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>PROJEK RAW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/HVussdt7QT6rMpKezv4s_pr1913_1.jpg?v=1598557109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PROJEK RAW<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PROJEK RAW SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>BLACK / 43</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-BLACK-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>BLACK / 44</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-BLACK-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>BLACK / 45</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-BLACK-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>BLACK / 46</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-BLACK-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>COFFEE / 40</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-COFFEE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>COFFEE / 41</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-COFFEE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>COFFEE / 42</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-COFFEE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>COFFEE / 43</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-COFFEE-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>COFFEE / 44</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-COFFEE-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>COFFEE / 45</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-COFFEE-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4780213403728</id>
+      <title>COFFEE / 46</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1913-COFFEE-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652650037328</id>
+    <published>2020-08-27T09:07:53-04:00</published>
+    <updated>2020-08-27T09:07:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/bronx"/>
+    <title>BRONX</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>PAJAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/TCWq0XnwSXmlgvm49O9O_91LYyMKAsiL._UX500.jpg?v=1591707511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PAJAR<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WEEKLY1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 46</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 45</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 44</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 43</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 42</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 41</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>PIRATE BLACK / 40</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-PIRATEBLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 46</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 45</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 44</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 43</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 42</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 41</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650037328</id>
+      <title>OFF WHITE / 40</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2436230-OFFWHITE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583777730640</id>
+    <published>2020-08-27T09:07:43-04:00</published>
+    <updated>2020-08-27T09:07:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/abaudien"/>
+    <title>ABAUDIEN</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>CALL IT SPRING</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/TtDXjRsWTmWyOLasEEeW_ABAUDIEN-001-1.jpg?v=1587593654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CALL IT SPRING<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Call It Spring Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DRESS SHOE</s:tag>
+    <s:tag>DRESS SHOES</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 13</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 9.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583777730640</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>ABAUDIEN-001-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583774158928</id>
+    <published>2020-08-27T09:07:40-04:00</published>
+    <updated>2020-08-27T09:07:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/atome-pk"/>
+    <title>ATOME PK</title>
+    <s:type>JEWELRY</s:type>
+    <s:vendor>CAROLINE NERON</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/M2PiSVGcTI6WytczZiqG_1000994-1.jpg?v=1587591920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CAROLINE NERON<br>
+        <strong>Type: </strong>JEWELRY<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Caroline Neron Jewelry</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CUFFLINK</s:tag>
+    <s:tag>CUFFLINKS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>JEWELRIES</s:tag>
+    <s:tag>JEWELRY</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583774158928</id>
+      <title>SILVER / OS / CUFFLINK</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1000994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652659966032</id>
+    <published>2020-06-09T09:18:33-04:00</published>
+    <updated>2020-06-09T09:18:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/court-pro-ii"/>
+    <title>COURT PRO II</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>K-SWISS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/diYQOwlDTJM5S7qS0y4l_81tnDBOFk3L._UX535.jpg?v=1591708673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-SWISS<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WEEKLY1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 13</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 12</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 11.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-11.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 11</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 10.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 10</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 9.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 9</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 8.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 8</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>CHARCOAL / 7.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3437-043-M-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 13</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 12</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 11.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-11.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 11</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 10.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 10</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 9.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 9</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 8.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 8</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659966032</id>
+      <title>RED / 7.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>5055-644-M-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652659179600</id>
+    <published>2020-06-09T09:15:06-04:00</published>
+    <updated>2020-06-09T09:15:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/dr-cinch-lo-lthr"/>
+    <title>DR CINCH LO LTHR</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>K-SWISS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/ecLVB2uXRcG0AJIzamEX_136282761-k-swiss-d-r-cinch-lo_17506.jpg?v=1591708561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-SWISS<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WEEKLY1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 7.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 8</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 8.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 9</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 9.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 10.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 10</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 11</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 11.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-11.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 12</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>WHITE / 13</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3761-101-M-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 7.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 8</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 8.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 9</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 9.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 10.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 10</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 11</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 11.5</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-11.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 12</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652659179600</id>
+      <title>BEIGE / 13</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>3759-234-M-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4652650168400</id>
+    <published>2020-06-09T08:57:40-04:00</published>
+    <updated>2020-06-09T08:57:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/manhattan"/>
+    <title>MANHATTAN</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>PAJAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/MftQ431Sb2NL2IrDOw79_prod_1818981812.jpg?v=1591707488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PAJAR<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BFCM2020</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>WEEKLY1</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 46</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 44</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 42</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 40</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 45</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 43</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4652650168400</id>
+      <title>WHITE / 41</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>2136231-WHITE-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583922171984</id>
+    <published>2020-04-22T19:27:20-04:00</published>
+    <updated>2020-04-22T19:27:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/pr-1908"/>
+    <title>PR 1908</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>PROJEK RAW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/8PA0X3YDQyeyHaFpBNyS_IMG_4813.jpg?v=1587598065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PROJEK RAW<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">PROJEK RAW SHOES</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BFCM</s:tag>
+    <s:tag>BLACK</s:tag>
+    <s:tag>BOOT</s:tag>
+    <s:tag>BOOTS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>LAST CHANCES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>new-arrivals</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SLC POS</s:tag>
+    <s:tag>TAN</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 40</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 41</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 42</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 43</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 44</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 45</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>TAN / 46</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-TAN-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 40</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 41</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 42</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 43</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 44</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 45</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583922171984</id>
+      <title>BLACK / 46</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>PR1908-BLACK-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583900184656</id>
+    <published>2020-04-22T18:43:26-04:00</published>
+    <updated>2020-04-22T18:43:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/la-costa"/>
+    <title>LA COSTA</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>BLUPRINT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/sMlLWcEQPuYbFu7vUO8Q_61fOjoySbkL._UY395.jpg?v=1587595661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLUPRINT<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>11.5</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>13</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>9.5</s:tag>
+    <s:tag>BFCM</s:tag>
+    <s:tag>CASUAL</s:tag>
+    <s:tag>CASUALS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SANDALS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 11</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 9</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 8</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 7</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 13</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 11.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-11.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 10.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 9.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 8.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BEIGE / 7.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-BEI-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 9.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 9</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 8.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 8</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 7.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-7.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 7</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 13</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 11.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-11.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 11</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 10.5</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583900184656</id>
+      <title>BLACK / 10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BLU-LAC-JETT-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583778811984</id>
+    <published>2020-04-22T16:01:22-04:00</published>
+    <updated>2020-04-22T16:01:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/harbor-salt"/>
+    <title>HARBOR SALT</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>BLUPRINT</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/mz51Sc5Tr2VJvJRdSxIG_HARBOR-SALT-1.jpg?v=1587594820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLUPRINT<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bluprint Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>11.5</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>13</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>9.5</s:tag>
+    <s:tag>CASUAL</s:tag>
+    <s:tag>CASUALS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOE</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:tag>SLIP ON</s:tag>
+    <s:tag>SLIP ONS</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 14</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 13</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 12</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 11</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 10.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-10,5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 10</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 9.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-9,5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 9</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 8.5</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778811984</id>
+      <title>SALT / 8</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>HARBOR-SALT-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shopliquidation.ca/products/4583778713680</id>
+    <published>2020-04-22T16:01:16-04:00</published>
+    <updated>2020-04-22T16:01:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shopliquidation.ca/products/diesel"/>
+    <title>DIESEL</title>
+    <s:type>SHOES</s:type>
+    <s:vendor>DIESEL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0268/8506/2736/products/rLhyYxxcTIaMuFW3mOF4_GREAT_ERA_PASS_ON._DIESEL-1.jpg?v=1587594444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIESEL<br>
+        <strong>Type: </strong>SHOES<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Diesel Shoes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10</s:tag>
+    <s:tag>10.5</s:tag>
+    <s:tag>11</s:tag>
+    <s:tag>11.5</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>13</s:tag>
+    <s:tag>7</s:tag>
+    <s:tag>7.5</s:tag>
+    <s:tag>8</s:tag>
+    <s:tag>8.5</s:tag>
+    <s:tag>9</s:tag>
+    <s:tag>9.5</s:tag>
+    <s:tag>CASUAL</s:tag>
+    <s:tag>CASUALS</s:tag>
+    <s:tag>GARCONS</s:tag>
+    <s:tag>HOMMES</s:tag>
+    <s:tag>MAN</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>MENS</s:tag>
+    <s:tag>SHOES</s:tag>
+    <s:tag>SHOPLIQUIDATION</s:tag>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778713680</id>
+      <title>ORANGE / 10.5</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>H4699-10.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778713680</id>
+      <title>ORANGE / 10</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>H4699-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778713680</id>
+      <title>ORANGE / 9.5</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>H4699-9.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778713680</id>
+      <title>ORANGE / 9</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>H4699-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shopliquidation.ca/products/4583778713680</id>
+      <title>ORANGE / 8.5</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>H4699-8.5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
